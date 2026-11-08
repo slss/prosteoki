@@ -1,0 +1,49 @@
+{
+  "id": "prosteoki",
+  "name": "Proste OKI",
+  "logo": "proste",
+  "domain": "prosteoki.pl",
+  "headline": "Twój plan. Jasne liczby.",
+  "intro": "Poznaj Osobiste Konto Inwestycyjne i policz własny scenariusz. Krok po kroku, z wyjaśnieniem danych i wyniku.",
+  "kicker": "Zaczynam budować kapitał",
+  "featured": "regularne-wplaty",
+  "cta": "Policz regularne wpłaty",
+  "asideLabel": "Zacznij od swojego pytania",
+  "asideTitle": "Co, jeśli…?",
+  "asideText": "Wpłacam co miesiąc. Mam pierwszą większą kwotę. Chcę zrozumieć podatek. Wybierz sytuację i sprawdź założenia.",
+  "toolsHeading": "Co chcesz policzyć?",
+  "knowledgeHeading": "Najpierw zrozum podstawy",
+  "sideHeading": "Trzy proste kroki",
+  "sideSteps": [
+    "Przygotuj własne kwoty i horyzont.",
+    "Wpisz założenia albo świadomie wczytaj przykład.",
+    "Sprawdź wynik, metodę i ograniczenia."
+  ],
+  "order": [
+    "regularne-wplaty",
+    "oki-czy-zwykly-rachunek",
+    "podatek-oki",
+    "koszty-oki",
+    "obecny-portfel"
+  ],
+  "articleTitles": {
+    "co-to-jest-oki": "OKI od zera: konto i inwestycja",
+    "limity-i-srednie": "Wpłata, saldo i średnia — różne rzeczy",
+    "jak-wybrac-operatora": "Jak wybrać swoje pierwsze OKI?",
+    "pierwszy-plan": "Od pierwszej wpłaty do własnego planu"
+  },
+  "articleNotes": {
+    "co-to-jest-oki": "Zacznij od rozdzielenia konta, inwestycji i podatku. Każde z nich odpowiada na inne pytanie.",
+    "limity-i-srednie": "Jeżeli znasz tylko kwotę wpłaty, nie wpisuj jej jako średniej. Najpierw ustal, jakie dane naprawdę posiadasz.",
+    "jak-wybrac-operatora": "Nie musisz znać całego rynku. Zbierz te same dane o dwóch ofertach i zaznacz, czego jeszcze nie wiesz.",
+    "pierwszy-plan": "Nie wybieramy za Ciebie oczekiwanego zysku. Możesz porównać własne założenia i zmienić je po pierwszym obliczeniu."
+  },
+  "articleBodies": {
+    "co-to-jest-oki": "<p>OKI to sposób prowadzenia oszczędności lub inwestycji opisany ustawą. Samo otwarcie konta nie oznacza inwestycji w określony produkt ani pewnego zysku. Przepisy przewidują start 1 stycznia 2027 r.; ofertę konkretnej instytucji trzeba sprawdzić osobno.</p><h2>Trzy rzeczy do rozróżnienia</h2><ol><li>Konto: gdzie i na jakich warunkach trzymasz aktywa.</li><li>Produkt: w co lokujesz pieniądze i jakie ponosisz ryzyko.</li><li>Podatek: jak przepisy traktują dochód i wartość aktywów.</li></ol><h2>Od czego zacząć?</h2><p>Najpierw zapisz własną kwotę i termin. Model regularnych wpłat pozwoli zobaczyć, ile pochodzi z wpłat, a ile z założonego wzrostu. Dopiero porównanie rachunków dodaje modelowe podatki. Polskie wyłączenie PIT nie rozstrzyga podatków zagranicznych.</p>",
+    "limity-i-srednie": "<p>Kwota wpłaty, saldo i średnia roczna to różne dane. Kalkulator podatku potrzebuje gotowych średnich grup ze wszystkich Twoich kont, nie tylko stanu na koniec roku.</p><h2>Czy 25 i 100 tysięcy dają razem 125 tysięcy?</h2><p>Nie. Zwolnienie S do 25 000 zł mieści się w łącznej puli 100 000 zł. Grupa I korzysta z części pozostałej po zwolnieniu S. Grupa N nie korzysta z tych zwolnień. Ogólna nazwa produktu nie wystarcza do przypisania grupy.</p><h2>Przykład do sprawdzenia</h2><p>To hipotetyczne średnie: S 50 000 zł, I 50 000 zł, N 0 zł. Zwolnienia wynoszą 25 000 zł i 50 000 zł, więc podstawa to 25 000 zł. Stawka 2027 r. 0,85% daje kwotę arytmetyczną 212,50 zł przed końcowym zaokrągleniem.</p><h2>Nie znasz średniej?</h2><p>Nie zastępuj jej wpłatą ani zerem. Dzienne wyceny, korekty przepływów i czas posiadania konta wpływają na rzeczywisty rachunek.</p>",
+    "jak-wybrac-operatora": "<p>Wybierz dwie oferty i zbierz te same informacje o każdej. Nie musisz zaczynać od rankingu. Ważne, żeby znać formę konta, dostępne produkty, koszty i zasady wypłaty.</p><h2>Twoja pierwsza lista pytań</h2><ol><li>Czy produkt już działa, czy jest dopiero zapowiedzią?</li><li>Jakie produkty są dostępne i jakie dokumenty określają ich warunki?</li><li>Za co płacę i jakie są warunki po promocji?</li><li>Jak wypłacę środki i z jakim terminem muszę się liczyć?</li><li>Gdzie znajdę pomoc i dane do rozliczenia?</li></ol><h2>Policz własny sposób korzystania</h2><p>Ta sama taryfa może inaczej wpływać na różne plany. Nasz kalkulator kosztów obejmuje jedynie opłatę roczną stałą i procentową. Prowizje transakcyjne i inne warunki wymagają osobnego sprawdzenia.</p><p>Brak odpowiedzi zaznacz jako niewiadomą. Ten materiał nie ocenia konkretnych operatorów i nie jest rankingiem ofert.</p>",
+    "pierwszy-plan": "<p>Zacznij od trzech własnych danych: kwoty na początku, wpłaty miesięcznej i czasu odkładania. Kalkulator nie wybierze za Ciebie oczekiwanego zwrotu. Możesz świadomie wczytać oznaczony przykład i zmienić jego założenia.</p><h2>Pierwsze obliczenie</h2><ol><li>Wpisz kwoty i czas; zero też może być prawidłową kwotą.</li><li>Podaj własny założony zwrot i koszty.</li><li>Oddziel wpłacony kapitał od modelowego wyniku.</li><li>Zmień jedno założenie i sprawdź różnicę.</li></ol><h2>Co dalej?</h2><p>Model wpłat nie obejmuje podatków. Gdy chcesz porównać formy konta, przejdź do porównania rachunków z tym samym planem. Jeżeli potrzebujesz częściowych wypłat lub nie znasz grupy instrumentu, obecny model nie rozstrzygnie całej sytuacji.</p>"
+  },
+  "releaseVersion": "1.0.0",
+  "publisher": "slss"
+}

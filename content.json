@@ -1,0 +1,3326 @@
+[
+  {
+    "id": "T01",
+    "path": "podstawy/co-to-jest-oki/",
+    "title": "OKI od zera: konto, oszczędności i podatek",
+    "question": "Czym jest OKI i co zmienia?",
+    "category": "podstawy",
+    "answer": "OKI jest formą prowadzenia oszczędności i inwestycji, a nie jednym produktem o ustalonym zysku. Podatek, dostępne aktywa i warunki instytucji trzeba rozpatrywać oddzielnie.",
+    "sections": [
+      {
+        "heading": "Co wybierasz w umowie",
+        "paragraphs": [
+          "Ustawa przewiduje różne formy konta. Sama nazwa nie określa dostępnych instrumentów, płynności, kosztów ani ochrony kapitału. Najpierw sprawdź formę, potem konkretny produkt."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Forma konta",
+          "Zakres produktów",
+          "Warunki wypłaty"
+        ]
+      },
+      {
+        "heading": "Jak zacząć porównanie",
+        "paragraphs": [
+          "Zapisz kwotę, plan wpłat i termin wykorzystania środków. Model kapitału pokazuje skutki założeń; dopiero model porównania dodaje uproszczone podatki."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: forma konta. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie utożsamiaj braku podatku od zysku z brakiem ryzyka inwestycji.",
+    "sourceScope": "art. 1–5, 21–26 i 32",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 1–5, 21–26 i 32"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S05"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T02",
+    "path": "podstawy/kto-moze-korzystac/",
+    "title": "Dla kogo jest OKI?",
+    "question": "Kto może otworzyć i posiadać OKI?",
+    "category": "podstawy",
+    "answer": "Umowę OKI może zawrzeć osoba fizyczna po ukończeniu 18 lat. Jedno konto ma jednego właściciela, a ustawa pozwala zawrzeć więcej niż jedną umowę.",
+    "sections": [
+      {
+        "heading": "Cel nie zmienia właściciela",
+        "paragraphs": [
+          "Odkładanie na potrzeby dziecka nie tworzy automatycznie konta należącego do dziecka. Wspólny cel małżonków nie łączy ich rachunków podatkowych."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Właściciel",
+          "Wymagane dokumenty",
+          "Rezydencja podatkowa"
+        ]
+      },
+      {
+        "heading": "Sprawdź wymagania instytucji",
+        "paragraphs": [
+          "Ustawowa możliwość korzystania nie oznacza identycznych procedur każdego podmiotu. Wymagane dokumenty i obsługę nierezydentów sprawdź w aktualnej ofercie; podatki zagraniczne wymagają osobnej analizy."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: właściciel. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie przenoś ograniczeń ze starych projektów ustawy do obecnych zasad.",
+    "sourceScope": "art. 3 i 21",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 3 i 21"
+      }
+    ],
+    "calculators": [
+      "S22"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T03",
+    "path": "podstawy/status-i-terminy/",
+    "title": "Kiedy rusza OKI i co można zrobić wcześniej?",
+    "question": "Co już obowiązuje, a co jest zapowiedzią?",
+    "category": "podstawy",
+    "answer": "Ustawa przewiduje wejście w życie 1 stycznia 2027 r. Data przepisów, zapowiedź instytucji i faktyczna możliwość otwarcia konta są odrębnymi informacjami.",
+    "sections": [
+      {
+        "heading": "Stan na 8 listopada 2026",
+        "paragraphs": [
+          "W zestawieniu instytucji opisujemy potwierdzone zapowiedzi, nie działające oferty. Pełnych warunków konkretnego produktu nie zastępuje ogólny materiał edukacyjny."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Data prawa",
+          "Termin instytucji",
+          "Dowód dostępności"
+        ]
+      },
+      {
+        "heading": "Jak weryfikować aktualność",
+        "paragraphs": [
+          "Porównaj datę publikacji źródła, datę sprawdzenia i deklarowany termin. Jeśli dokument nie podaje taryfy albo sposobu otwarcia, zapisz te elementy jako niepotwierdzone."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: data prawa. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Przycisk otwarcia zwykłego rachunku nie dowodzi możliwości otwarcia OKI.",
+    "sourceScope": "art. 46; metadane ELI",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 46; metadane ELI"
+      }
+    ],
+    "calculators": [
+      "S08"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T04",
+    "path": "podatek/limity-i-zwolnienia/",
+    "title": "Limity OKI: wpłata a zwolnienie",
+    "question": "Czego dotyczą progi i czy są limitem wpłat?",
+    "category": "podatek",
+    "answer": "Kwoty 25 tys. i 100 tys. zł dotyczą zwolnień odpowiednich średnich aktywów, nie rocznego limitu wpłat. Część S do 25 tys. mieści się w łącznych 100 tys. zł.",
+    "sections": [
+      {
+        "heading": "Jak działa wspólna pula",
+        "paragraphs": [
+          "Najpierw ustala się zwolnienie S do 25 tys. zł. Zwolnienie I wykorzystuje pozostałą część 100 tys. zł. Grupa N nie korzysta z tych zwolnień. Nadwyżka S nie przechodzi do wolnej puli I."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Średnia S",
+          "Średnia I",
+          "Średnia N"
+        ]
+      },
+      {
+        "heading": "Przykład na gotowych danych",
+        "paragraphs": [
+          "Hipotetyczne średnie S=50 tys. i I=50 tys. dają podstawę 25 tys. zł, mimo że ich suma to 100 tys. zł. Dla 2027 r. kwota arytmetyczna wynosi 212,50 zł przed końcowym zaokrągleniem zobowiązania."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: średnia s. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "To nie jest instrukcja przenoszenia produktów między grupami. Klasyfikacja wynika z dokumentów i przepisów.",
+    "sourceScope": "art. 23–26 i 43",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 23–26 i 43"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S20"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T05",
+    "path": "podatek/srednia-roczna/",
+    "title": "Dlaczego kalkulator pyta o średnią, a nie tylko saldo?",
+    "question": "Jak rozumieć średnią i dlaczego saldo nie wystarcza?",
+    "category": "podatek",
+    "answer": "Średnia roczna wymaga dziennych wartości oraz właściwych korekt i liczby dni posiadania konta. Saldo końcowe, kwota wpłaty ani prosta średnia sald miesięcznych nie zastępują ustawowego rachunku.",
+    "sections": [
+      {
+        "heading": "Dane z całego okresu",
+        "paragraphs": [
+          "Ustawa przewiduje wyceny końca dnia i odrębne zasady dla przepływów, walut oraz transferów. Przy kilku kontach trzeba ustalić ich średnie, a następnie je zsumować według grup."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Okres posiadania",
+          "Komplet wycen",
+          "Rodzaje przepływów"
+        ]
+      },
+      {
+        "heading": "Co liczy analizator historii",
+        "paragraphs": [
+          "Nasze narzędzie dzienne obejmuje jedno konto przez pełny 2027 r., jedną grupę i komplet wartości w PLN. Odrzuca luki oraz jednoczesne wpłaty i wypłaty; nie udaje obsługi każdego ustawowego przypadku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: okres posiadania. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Grudniowa wypłata nie usuwa automatycznie wcześniejszych dziennych wartości.",
+    "sourceScope": "art. 23–24 i 26",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 23–24 i 26"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S10"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T06",
+    "path": "podatek/stawka-i-kolejne-lata/",
+    "title": "Stawka podatku OKI: wybierz właściwy rok",
+    "question": "Która stawka dotyczy którego roku?",
+    "category": "podatek",
+    "answer": "Stawka dla 2027 r. wynosi 0,85%. Reguła kolejnych lat odwołuje się do stopy referencyjnej NBP; stały parametr wpisany do długoterminowej symulacji jest założeniem, a nie prognozą prawa.",
+    "sections": [
+      {
+        "heading": "Reguła kolejnego roku",
+        "paragraphs": [
+          "Ustawa przewiduje 19% wartości stopy referencyjnej z 31 października poprzedniego roku, minimum 0,1% oraz zaokrąglenie stawki w dół do dwóch miejsc procentowych."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Rok obliczenia",
+          "Źródło stawki",
+          "Wersja progów"
+        ]
+      },
+      {
+        "heading": "Progi a stawka",
+        "paragraphs": [
+          "Waloryzacja progów ma odrębne przepisy przejściowe: stosowanie od 2030 r. Nie należy przenosić tej samej daty na wszystkie parametry. Model wyraźnie oddziela znaną stawkę 2027 od przyszłych założeń."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: rok obliczenia. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Własna przyszła stawka nie jest obliczeniem oficjalnej stawki danego roku.",
+    "sourceScope": "art. 25 i 43–44",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 25 i 43–44"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S25"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T07",
+    "path": "aktywa/grupy-i-klasyfikacja/",
+    "title": "Do której grupy należą moje oszczędności?",
+    "question": "Jak rozpoznać grupę aktywa i brak danych?",
+    "category": "aktywa",
+    "answer": "Dopuszczenie instrumentu do OKI i prawo do zwolnienia to różne warunki. W kalkulatorach używamy skrótów S, I i N; konkretną grupę trzeba potwierdzić w dokumentach produktu.",
+    "sections": [
+      {
+        "heading": "Zacznij od identyfikacji",
+        "paragraphs": [
+          "Zapisz pełną nazwę, emitenta, formę prawną oraz dokument określający cechy instrumentu. Cena lub notowanie w PLN nie wystarczają do przypisania każdej inwestycji do grupy ze zwolnieniem."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Identyfikator produktu",
+          "Dokument klasyfikacji",
+          "Data sprawdzenia"
+        ]
+      },
+      {
+        "heading": "Co zrobić przy braku danych",
+        "paragraphs": [
+          "Nie wybieraj grupy tylko dlatego, że daje niższy wynik. Zaznacz niewiadomą i poszukaj potwierdzenia u instytucji lub w dokumentacji. Możesz policzyć jawne warianty, lecz nie traktować ich jako kwalifikacji."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: identyfikator produktu. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nazwy ETF, obligacja i fundusz obejmują różne konstrukcje.",
+    "sourceScope": "art. 2, 12 i 26",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 12 i 26"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S20"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T08",
+    "path": "aktywa/lokaty-i-depozyty/",
+    "title": "Lokata w OKI: od czego zacząć porównanie",
+    "question": "Jak analizować depozyt w OKI?",
+    "category": "aktywa",
+    "answer": "Przy depozycie porównuj oprocentowanie, kapitalizację, koszty i warunki dostępu do pieniędzy. Sama korzyść podatkowa nie określa końcowego wyniku.",
+    "sections": [
+      {
+        "heading": "Ustal zakres depozytu",
+        "paragraphs": [
+          "Złotowe depozyty bankowe objęte właściwą kategorią ustawy należą do części S. Nie rozciągaj tego automatycznie na produkty strukturyzowane lub inwestycje sprzedawane w banku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Oprocentowanie i kapitalizacja",
+          "Warunki zakończenia",
+          "Forma ochrony"
+        ]
+      },
+      {
+        "heading": "Porównanie dwóch planów",
+        "paragraphs": [
+          "Zapisz identyczną kwotę i okres, a potem warunki kapitalizacji, odnowienia i wcześniejszego zakończenia. Nasz stały model zwrotu nie odtwarza każdej szczegółowej konstrukcji lokaty."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: oprocentowanie i kapitalizacja. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie myl progu zwolnienia OKI w PLN z zasadami gwarantowania depozytów.",
+    "sourceScope": "art. 26; dokumenty konkretnego depozytu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 26; dokumenty konkretnego depozytu"
+      }
+    ],
+    "calculators": [
+      "S02",
+      "S05"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T09",
+    "path": "aktywa/obligacje/",
+    "title": "Obligacje w OKI: nie wszystkie działają tak samo",
+    "question": "Dlaczego różne obligacje wymagają osobnego sprawdzenia?",
+    "category": "aktywa",
+    "answer": "Obligacje oszczędnościowe i pozostałe obligacje wymagają odrębnego sprawdzenia. Sama nazwa obligacja nie przesądza o grupie zwolnienia, ryzyku ani sposobie wyceny.",
+    "sections": [
+      {
+        "heading": "Dwie różne ścieżki",
+        "paragraphs": [
+          "Skarbowe obligacje oszczędnościowe obejmuje właściwa kategoria S. W innych obligacjach trzeba sprawdzić kategorię ustawową i dokumenty, w tym nominał, konstrukcję oraz emitenta."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Rodzaj obligacji",
+          "Dokument emisji",
+          "Wycena i wykup"
+        ]
+      },
+      {
+        "heading": "Przed użyciem kalkulatora",
+        "paragraphs": [
+          "Ustal sposób naliczania wartości, koszt wykupu lub sprzedaży oraz dostępność w wybranej formie konta. Symulacja stałego zwrotu nie jest odtworzeniem listu emisyjnego konkretnej obligacji."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: rodzaj obligacji. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Obligacje strukturyzowane nie powinny być automatycznie traktowane jak zwykła kategoria zwolniona.",
+    "sourceScope": "art. 24 i 26",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 24 i 26"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S08"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T10",
+    "path": "aktywa/fundusze-i-etf/",
+    "title": "Fundusze i ETF w OKI: co oznaczają te nazwy?",
+    "question": "Co trzeba sprawdzić w funduszu lub ETF?",
+    "category": "aktywa",
+    "answer": "Kwalifikację funduszu lub ETF sprawdza się dla konkretnej formy prawnej i dokumentów. Samo notowanie w PLN, polska nazwa albo dystrybutor nie rozstrzygają zwolnienia.",
+    "sections": [
+      {
+        "heading": "Jakie dokumenty odszukać",
+        "paragraphs": [
+          "Zapisz identyfikator i aktualną politykę inwestycyjną lub statut. Dla odpowiednich kategorii znaczenie ma ustawowy wymóg co najmniej 70% kwalifikowanych aktywów. Osobne zasady mogą dotyczyć części produktów o SRI 1."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Identyfikator",
+          "Polityka lub statut",
+          "Zakres kosztów"
+        ]
+      },
+      {
+        "heading": "Użycie w porównaniu",
+        "paragraphs": [
+          "Po potwierdzeniu grupy oddziel koszty produktu od opłat konta. Sprawdź, czy łączna stopa wpisana do modelu już uwzględnia część kosztów, aby nie naliczyć ich ponownie."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: identyfikator. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie publikujemy listy kwalifikowanych ETF bez datowanego sprawdzenia każdego dokumentu.",
+    "sourceScope": "art. 26 ust. 1 i 4",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 26 ust. 1 i 4"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S20"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T11",
+    "path": "aktywa/akcje-i-dywidendy/",
+    "title": "Akcje i dywidendy w OKI: podstawowe pytania",
+    "question": "Jakie elementy akcji i dywidend wpływają na model?",
+    "category": "aktywa",
+    "answer": "W akcjach i dywidendach rozdziel kwalifikację aktywa, moment przepływu i podatki zagraniczne. Polskie wyłączenie PIT nie jest dowodem zwolnienia z podatku pobieranego za granicą.",
+    "sections": [
+      {
+        "heading": "Co potwierdza grupę",
+        "paragraphs": [
+          "Dla określonej kategorii akcji znaczenie ma kapitał zakładowy emitenta denominowany w PLN. Sam handel na GPW albo cena w PLN nie stanowią wystarczającego kryterium."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Emitent",
+          "Źródło dywidendy",
+          "Rezydencja i WHT"
+        ]
+      },
+      {
+        "heading": "Dywidendy w modelu",
+        "paragraphs": [
+          "Nasze porównanie rachunków nie modeluje oddzielnych wypłat dywidend, WHT ani odzyskiwania podatku. Nie wpisuj do niego takiego przypadku jako pełnego rachunku netto. Potrzebna jest analiza państwa i instrumentu."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: emitent. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Dochód do wypłaty z dywidend nie wynika automatycznie z założonej stopy wzrostu ceny.",
+    "sourceScope": "art. 26 i 32; osobna analiza podatków zagranicznych",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 26 i 32; osobna analiza podatków zagranicznych"
+      }
+    ],
+    "calculators": [
+      "S07",
+      "S15"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T12",
+    "path": "porownania/oki-a-zwykly-rachunek/",
+    "title": "OKI czy zwykły rachunek? Porównaj ten sam plan",
+    "question": "Jak uczciwie zestawić te same przepływy?",
+    "category": "porownania",
+    "answer": "Porównuj te same kwoty, daty i koszty, określając moment sprzedaży na zwykłym rachunku. Różnica stawek bez porównania podstaw i przepływów nie odpowiada na pytanie o kapitał końcowy.",
+    "sections": [
+      {
+        "heading": "Co musi być wspólne",
+        "paragraphs": [
+          "Kapitał początkowy, nowe wpłaty, horyzont i ścieżka zwrotu muszą być zgodne. Jeśli taryfy się różnią, ich wpływ trzeba pokazać, zamiast ukrywać w jednym wyniku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Wspólne przepływy",
+          "Moment sprzedaży",
+          "Zakres modelu"
+        ]
+      },
+      {
+        "heading": "Moment realizacji",
+        "paragraphs": [
+          "Jedna sprzedaż na końcu odracza modelowy podatek od zysku. Coroczna realizacja to osobny scenariusz. OKI może generować podatek od aktywów także przy stracie, dlatego pokaż osobno kapitał, opłaty i podatki."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: wspólne przepływy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nasze porównanie jest symulacją z uproszczonym PIT, nie pełnym rozliczeniem portfela.",
+    "sourceScope": "art. 21–26 i 32; metodologia modelu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 21–26 i 32; metodologia modelu"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S07"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T13",
+    "path": "porownania/oki-ike-ikze/",
+    "title": "OKI, IKE i IKZE: czym się różnią?",
+    "question": "Co zmieniają warunki podatkowe i termin wypłaty?",
+    "category": "porownania",
+    "answer": "OKI, IKE i IKZE mają inne mechanizmy podatkowe i warunki wypłaty. Nie wybieraj formy tylko na podstawie jednego procentu; znaczenie ma cel oraz prawo do preferencji.",
+    "sections": [
+      {
+        "heading": "Warunki emerytalne",
+        "paragraphs": [
+          "IKE przewiduje m.in. wiek 60 lat albo 55 lat z uprawnieniami emerytalnymi oraz odpowiednią historię wpłat. IKZE wymaga 65 lat i wpłat w co najmniej 5 latach kalendarzowych dla kwalifikowanej wypłaty."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Cel i wiek wypłaty",
+          "Historia wpłat",
+          "Prawo i podstawa odliczenia"
+        ]
+      },
+      {
+        "heading": "Zakres naszego porównania",
+        "paragraphs": [
+          "Model obejmuje nowe plany z co najmniej pięcioma latami wpłat i wypłatą po 65 roku życia. IKZE: modelowe 10% od całej wypłaty; korzyść odliczeń pokazujemy jako osobną gotówkę bez reinwestowania. Przyszłe limity wpłat są jawnymi założeniami, które trzeba sprawdzić dla każdego rzeczywistego roku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: cel i wiek wypłaty. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Wcześniejszy zwrot, istniejące konta i transfery pozostają poza zakresem tego modelu.",
+    "sourceScope": "ustawa IKE/IKZE art. 34 i 34a; objaśnienia MRPiPS",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "ustawa IKE/IKZE art. 34 i 34a; objaśnienia MRPiPS"
+      },
+      {
+        "label": "Ustawa IKE/IKZE — art. 34 i 34a",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/707/text.html",
+        "scope": "Warunki wypłat, nie limity przyszłych lat."
+      },
+      {
+        "label": "MRPiPS — IKZE",
+        "url": "https://www.gov.pl/web/rodzina/roczny-limit-wplat-na-ikze",
+        "scope": "Warunki kwalifikowanej wypłaty i opodatkowanie."
+      }
+    ],
+    "calculators": [
+      "S17"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T14",
+    "path": "poradniki/obecny-portfel/",
+    "title": "Masz już inwestycje? Sprawdź dwa scenariusze",
+    "question": "Co policzyć przed sprzedażą istniejącego portfela?",
+    "category": "decyzje",
+    "answer": "Przed sprzedażą istniejącego portfela policz koszt realizacji zysku teraz, opłaty i alternatywę kierowania do OKI tylko nowych wpłat. Dzisiejsza wartość portfela nie jest historycznym kosztem nabycia.",
+    "sections": [
+      {
+        "heading": "Dwa warianty z tą samą bazą",
+        "paragraphs": [
+          "Pierwszy sprzedaje portfel i wpłaca pozostałe środki do OKI. Drugi zostawia portfel na zwykłym rachunku, a nowe wpłaty kieruje do osobnego OKI. Koszty prowadzenia mogą dotyczyć różnej liczby kont."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Wartość obecna",
+          "Koszt nabycia",
+          "Opłaty operacji"
+        ]
+      },
+      {
+        "heading": "Co trzeba doprecyzować",
+        "paragraphs": [
+          "Ustal koszt nabycia, opłatę sprzedaży i zakres modelowanego podatku. Nasze narzędzie nie rozlicza strat z innych transakcji, walut, dywidend ani pełnej taryfy. Sprzedaż i ponowny zakup nie są transferem papierów."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: wartość obecna. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie należy podejmować operacji na podstawie wyniku pomijającego istotny przypadek podatkowy.",
+    "sourceScope": "art. 2 i 32; metodologia scenariusza",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2 i 32; metodologia scenariusza"
+      }
+    ],
+    "calculators": [
+      "S06"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T15",
+    "path": "poradniki/regularne-oszczedzanie/",
+    "title": "Jak policzyć plan regularnego odkładania",
+    "question": "Jak ułożyć jawny plan wpłat?",
+    "category": "cele",
+    "answer": "Plan regularnego odkładania powinien oddzielać wpłacony kapitał od założonego wzrostu i kosztów. Zwrot wpisany do symulacji jest założeniem, nie obietnicą.",
+    "sections": [
+      {
+        "heading": "Zdefiniuj harmonogram",
+        "paragraphs": [
+          "Wybierz kwotę początkową, miesięczną wpłatę i horyzont. W naszym modelu wpłaty są na początku miesiąca. Inny rytm można sprawdzić w narzędziu nieregularnych wpłat."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota początkowa",
+          "Własna wpłata",
+          "Horyzont"
+        ]
+      },
+      {
+        "heading": "Zmieniaj jedną rzecz",
+        "paragraphs": [
+          "Zachowaj bazę i zmień koszt, horyzont lub stopę zwrotu. Przy niepewnej regularności sprawdź przerwę, zamiast zakładać obowiązkowe nadrabianie. Podatki są osobnym zakresem porównania rachunków."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota początkowa. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie dobieramy wpłaty ani ryzyka na podstawie wieku lub dochodu.",
+    "sourceScope": "własna metodologia planowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia planowania"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S23",
+      "S24"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T16",
+    "path": "poradniki/cel-i-termin/",
+    "title": "Ile odkładać na swój cel?",
+    "question": "Jak przełożyć cel na wpłatę lub termin?",
+    "category": "cele",
+    "answer": "Cel można przełożyć na wymaganą wpłatę albo modelowy termin, ale tylko przy jawnych założeniach zwrotu i kosztów. W naszym narzędziu celu kwota jest nominalna, a podatki nie są uwzględnione.",
+    "sections": [
+      {
+        "heading": "Najpierw znaczenie celu",
+        "paragraphs": [
+          "Określ kwotę i termin wykorzystania pieniędzy. Jeśli chodzi o dzisiejszą siłę nabywczą, uwzględnij osobno własne założenie inflacji i sprawdź, czy model rzeczywiście obsługuje taką interpretację."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota celu",
+          "Termin",
+          "Ograniczenia wpłaty"
+        ]
+      },
+      {
+        "heading": "Brak rozwiązania też jest wynikiem",
+        "paragraphs": [
+          "Dłuższy okres albo wyższa wpłata zmieniają scenariusz. Nie podmieniaj oczekiwanego zwrotu na wyższy tylko po to, aby wynik się zgadzał. Narzędzie powinno uczciwie wskazać, że cel nie został osiągnięty w zadanym zakresie."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota celu. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Modelowy termin nie gwarantuje możliwości wykorzystania instrumentów dokładnie tego dnia.",
+    "sourceScope": "własna metodologia planowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia planowania"
+      }
+    ],
+    "calculators": [
+      "S03",
+      "S04"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T17",
+    "path": "poradniki/nieregularne-wplaty/",
+    "title": "Nie wpłacasz co miesiąc? Policz swój harmonogram",
+    "question": "Jak uwzględnić nieregularność lub przerwę?",
+    "category": "cele",
+    "answer": "Przy nieregularnych nadwyżkach użyj listy własnych miesięcy i kwot. Średnia miesięczna nie odtwarza znaczenia terminów, a stała wpłata nie musi pasować do Twojej sytuacji.",
+    "sections": [
+      {
+        "heading": "Lista zamiast obietnicy regularności",
+        "paragraphs": [
+          "Narzędzie nieregularnych wpłat zastępuje bazowy harmonogram podaną listą. Numer miesiąca 1 oznacza styczeń 2027. Kilka pozycji tego samego miesiąca jest sumowanych."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Daty wpłat",
+          "Kwoty",
+          "Długość przerwy"
+        ]
+      },
+      {
+        "heading": "Co porównać",
+        "paragraphs": [
+          "Sprawdź listę planowaną, wariant z przerwą i ewentualny wzrost wpłat od kolejnego roku. Wynik pokazuje nominalny kapitał i koszty bez podatków, nie odtwarza rocznych średnich do zeznania."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: daty wpłat. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie zakładamy dochodów ani regularności na podstawie zawodu.",
+    "sourceScope": "własna metodologia planowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia planowania"
+      }
+    ],
+    "calculators": [
+      "S21",
+      "S23",
+      "S24"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T18",
+    "path": "poradniki/plan-rodzinny/",
+    "title": "Oszczędzanie na cel rodzinny: od czego zacząć?",
+    "question": "Jak zestawić cele i oddzielnych właścicieli?",
+    "category": "cele",
+    "answer": "Wspólny cel rodziny można planować razem, ale rachunek podatkowy każdego właściciela pozostaje odrębny. Nie twórz jednego wspólnego limitu małżeńskiego ani konta dziecka z samej nazwy celu.",
+    "sections": [
+      {
+        "heading": "Dwa plany dorosłych",
+        "paragraphs": [
+          "Zapisz osobno kapitał, wpłaty i grupę aktywów każdej osoby. Narzędzie rodzinne zestawia dwa wyniki, przyjmując jawnie wspólny zwrot, horyzont i taryfę."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Właściciel A",
+          "Właściciel B",
+          "Wspólny cel"
+        ]
+      },
+      {
+        "heading": "Własność wymaga osobnej uwagi",
+        "paragraphs": [
+          "Przenoszenie własności, darowizny i wypłaty dla innych osób mogą mieć odrębne skutki. Model dwóch planów ich nie analizuje. Nie przedstawia też podziału oszczędności między osoby jako rekomendacji podatkowej."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: właściciel a. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Suma wyników to informacja planistyczna, nie wspólny rachunek podatkowy.",
+    "sourceScope": "art. 3 i 23–26",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 3 i 23–26"
+      }
+    ],
+    "calculators": [
+      "S03",
+      "S22"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T19",
+    "path": "poradniki/regularne-wyplaty/",
+    "title": "Ile wypłacać i na jak długo wystarczy kapitał?",
+    "question": "Jak modelować wypłaty bez obietnicy dochodu?",
+    "category": "wyplaty",
+    "answer": "Regularne wypłaty trzeba analizować wraz z kapitałem, horyzontem, kosztami i kolejnością zwrotów. Obliczona miesięczna kwota nie jest gwarantowanym dochodem.",
+    "sections": [
+      {
+        "heading": "Co wyznacza kalkulator",
+        "paragraphs": [
+          "Model szuka kwoty, którą da się wypłacać do końca zadanego okresu przy stałych założeniach. Wypłaty są po modelowym wzroście na koniec miesiąca. To kwota przed podatkami i kosztami sprzedaży instrumentów."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kapitał",
+          "Rytm wypłat",
+          "Potrzeby jednorazowe"
+        ]
+      },
+      {
+        "heading": "Sprawdź zmianę ścieżki",
+        "paragraphs": [
+          "Ten sam zestaw rocznych zwrotów w innej kolejności może dać inny przebieg przy wypłatach. Oddziel też regularne potrzeby od większego jednorazowego wydatku. Brak środków nie może być pokazany jako pełna wypłata."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kapitał. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Model nie ocenia płynności instrumentu i nie wyznacza bezpiecznej stopy wypłaty.",
+    "sourceScope": "własna metodologia wypłat; art. 2 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia wypłat; art. 2 i 18"
+      }
+    ],
+    "calculators": [
+      "S11",
+      "S26"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T20",
+    "path": "poradniki/duzy-wydatek/",
+    "title": "Co zmieni większa wypłata?",
+    "question": "Jak wydatek zmienia pozostały plan?",
+    "category": "wyplaty",
+    "answer": "Większy wydatek powinien być osobnym przepływem w określonym terminie. Porównuj pozostały kapitał i dalszy cel z wariantem, w którym wydatku nie było.",
+    "sections": [
+      {
+        "heading": "Najpierw zachowaj bazę",
+        "paragraphs": [
+          "Zapisz obecny plan, potem kwotę i miesiąc wydatku. W naszym narzędziu wypłata jest na koniec miesiąca po modelowym wzroście. Brak kapitału jest jawnie oznaczany."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota wydatku",
+          "Termin",
+          "Pozostały cel"
+        ]
+      },
+      {
+        "heading": "Jak czytać różnicę",
+        "paragraphs": [
+          "Niższy końcowy kapitał obejmuje wypłatę oraz utracony późniejszy wzrost tej kwoty. Nie utożsamiaj różnicy z samą opłatą. Model miesięczny nie obejmuje podatku i prowizji sprzedaży."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota wydatku. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "To nie jest gwarancja dostępności środków w konkretnej dacie.",
+    "sourceScope": "własna metodologia przepływów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia przepływów"
+      }
+    ],
+    "calculators": [
+      "S12"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T21",
+    "path": "koszty/jak-czytac-taryfe/",
+    "title": "Jakie opłaty wpisać do kalkulatora?",
+    "question": "Jak zebrać opłaty do porównania?",
+    "category": "koszty",
+    "answer": "Taryfę czytaj według czynności, które faktycznie planujesz. Opłata za prowadzenie to tylko jedna możliwa pozycja; uwzględnij też koszty produktu i operacji.",
+    "sections": [
+      {
+        "heading": "Zbierz pełną listę",
+        "paragraphs": [
+          "Rozdziel opłaty stałe, procentowe, transakcyjne, minimalne i walutowe. Zapisz podstawę naliczenia, częstotliwość oraz warunki zwolnienia. Nie zakładaj, że OKI jest ustawowo bezpłatne."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Dokument taryfy",
+          "Sposób naliczania",
+          "Aktywność"
+        ]
+      },
+      {
+        "heading": "Zakres kalkulatora",
+        "paragraphs": [
+          "Nasze podstawowe narzędzie modeluje roczną opłatę stałą i procentową. Pokaże ich sumę oraz wpływ na końcową wartość, ale nie wyceni pełnej taryfy. Koszt już zawarty w założonym zwrocie nie powinien być dodany drugi raz."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: dokument taryfy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Koszt w złotych i utracony wzrost to dwie różne wielkości.",
+    "sourceScope": "art. 5, 7 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 5, 7 i 18"
+      }
+    ],
+    "calculators": [
+      "S13",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T22",
+    "path": "koszty/porownanie-ofert/",
+    "title": "Porównaj dwie oferty na swoim przykładzie",
+    "question": "Jak porównać własne taryfy bez rankingu zmyślonych ofert?",
+    "category": "koszty",
+    "answer": "Porównanie ofert wymaga tej samej kwoty, horyzontu i aktywności. Niższa pojedyncza opłata nie przesądza o niższym koszcie całego planu.",
+    "sections": [
+      {
+        "heading": "Jedna baza dla dwóch taryf",
+        "paragraphs": [
+          "Zapisz taryfy A i B wraz z datą. Sprawdź opłaty warunkowe i te, których nie obejmuje model. Brak dokumentu oznacza niewiadomą, a nie zero."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Taryfa A",
+          "Taryfa B",
+          "Wspólny scenariusz"
+        ]
+      },
+      {
+        "heading": "Przeczytaj wynik szerzej",
+        "paragraphs": [
+          "Kalkulator zestawia kapitał i pobrane opłaty. Różnica końcowej wartości obejmuje także modelową utratę wzrostu. Dostępność instrumentów i wypłat oceniaj osobno, bez sumowania wszystkiego w arbitralne punkty."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: taryfa a. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie porównujemy tu rzeczywistych ofert, jeśli nie podano i nie zweryfikowano ich dokumentów.",
+    "sourceScope": "art. 18; metodologia kosztów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 18; metodologia kosztów"
+      }
+    ],
+    "calculators": [
+      "S27",
+      "S14"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T23",
+    "path": "ryzyko/strata-a-podatek/",
+    "title": "Strata i podatek: dwie różne liczby",
+    "question": "Jak oddzielić stratę inwestycji od podatku?",
+    "category": "ryzyko",
+    "answer": "Podatek od wartości aktywów może wystąpić mimo spadku inwestycji. Wartość aktywów i dochód ze sprzedaży są różnymi podstawami, dlatego wyniki pokazujemy oddzielnie.",
+    "sections": [
+      {
+        "heading": "Dwa rachunki przy stracie",
+        "paragraphs": [
+          "Ujemny modelowy zwrot zmniejsza kapitał. Jeżeli średnia aktywów nadal przekracza odpowiednie zwolnienie albo grupa nie korzysta ze zwolnienia, model OKI może pokazać podatek od aktywów."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Ścieżka wartości",
+          "Średnia grupy",
+          "Podatek osobno"
+        ]
+      },
+      {
+        "heading": "Granice porównania",
+        "paragraphs": [
+          "Strata OKI nie jest przenoszona przez nasze narzędzie do kompensacji zwykłego PIT. Model zwykłego rachunku nie nalicza ujemnego podatku i nie wycenia przyszłej możliwości rozliczenia strat."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: ścieżka wartości. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie odczytuj ujemnej różnicy między wariantami jako ujemnego podatku.",
+    "sourceScope": "art. 5 ust. 1 pkt 3, 21–26 i 32",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 5 ust. 1 pkt 3, 21–26 i 32"
+      }
+    ],
+    "calculators": [
+      "S28"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T24",
+    "path": "ryzyko/inflacja-i-zalozenia/",
+    "title": "Co inflacja zmienia w wyniku kalkulatora?",
+    "question": "Co oznacza wynik nominalny i realny?",
+    "category": "ryzyko",
+    "answer": "Nominalny wynik mówi o liczbie złotych, a wynik realny o modelowej sile nabywczej. Oba zależą od jawnych założeń; inflacja nie jest w kalkulatorze prognozą.",
+    "sections": [
+      {
+        "heading": "Wspólna baza realna",
+        "paragraphs": [
+          "Narzędzie wrażliwości przelicza wartość końcową na siłę nabywczą początku 2027 r. według stałej zadanej inflacji. Nie oznacza to, że ceny wszystkich osobistych wydatków zmienią się identycznie."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Rok bazowy",
+          "Założona inflacja",
+          "Zakres zwrotów"
+        ]
+      },
+      {
+        "heading": "Trzy warianty bez prawdopodobieństw",
+        "paragraphs": [
+          "Podaj niższy, bazowy i wyższy zwrot. Porównaj kapitał i podatki zamiast samego procentu. Nie przypisujemy tym wariantom szans wystąpienia ani nie nazywamy ich przewidywanym wynikiem."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: rok bazowy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Stały zwrot roczny nie odtwarza zmienności rynkowej.",
+    "sourceScope": "własna metodologia wartości realnych",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia wartości realnych"
+      }
+    ],
+    "calculators": [
+      "S16",
+      "S25"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T25",
+    "path": "ryzyko/ochrona-srodkow/",
+    "title": "Czy pieniądze w OKI są chronione?",
+    "question": "Jak odróżnić ochronę instytucjonalną od ryzyka inwestycji?",
+    "category": "ryzyko",
+    "answer": "Ochronę pieniędzy ustala się dla konkretnej formy produktu i podmiotu. Konto oferowane przez bank nie oznacza automatycznie, że każda sprzedawana inwestycja jest depozytem gwarantowanym.",
+    "sections": [
+      {
+        "heading": "Dwa różne pytania",
+        "paragraphs": [
+          "Sprawdź system właściwy dla produktu oraz ryzyko zmiany wartości aktywa. Ochrona przed określonym zdarzeniem instytucjonalnym nie jest gwarancją kursu ani zysku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Podmiot umowy",
+          "Forma produktu",
+          "Zakres systemu"
+        ]
+      },
+      {
+        "heading": "Co przygotować",
+        "paragraphs": [
+          "Zapisz nazwę prawnego podmiotu, dokument produktu i właściwy system ochrony. Dla depozytu korzystaj z oficjalnych informacji BFG. Dla innych form poszukaj właściwych dokumentów, zamiast przenosić zasady depozytu."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: podmiot umowy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie myl zwolnienia OKI wyrażonego w PLN z zasadami gwarancji depozytów.",
+    "sourceScope": "art. 17; BFG — zakres gwarantowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 17; BFG — zakres gwarantowania"
+      },
+      {
+        "label": "BFG — co jest gwarantowane",
+        "url": "https://bfg.pl/gwarantowanie-depozytow/sprawdz-co-gwarantujemy/",
+        "scope": "Odróżnienie depozytów i pozostałych produktów."
+      }
+    ],
+    "calculators": [
+      "S02",
+      "S11"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T26",
+    "path": "praktyka/kilka-kont/",
+    "title": "Kilka OKI: jak zebrać dane do obliczenia",
+    "question": "Jak uporządkować dane z kilku kont?",
+    "category": "praktyka",
+    "answer": "Kilka OKI wymaga zebrania danych ze wszystkich własnych kont. Zwolnienia oblicza się dla podatnika, a nie osobno dla każdej umowy.",
+    "sections": [
+      {
+        "heading": "Lista kont i grup",
+        "paragraphs": [
+          "Dla każdego konta zapisz prawidłowe średnie S, I i N. Nie mieszaj średniej jednego rachunku z saldem innego. W prototypie rachunku 2027 można dodać kolejne konta do wspólnego obliczenia."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Komplet kont",
+          "Średnie według grup",
+          "Właściwy rok"
+        ]
+      },
+      {
+        "heading": "Przykład wspólnego zwolnienia",
+        "paragraphs": [
+          "Dwie hipotetyczne średnie po 80 tys. zł w I dają sumę 160 tys. zł. Po zwolnieniu 100 tys. zł podstawa to 60 tys. zł. W 2027 r. kwota arytmetyczna wynosi 510 zł przed końcowym zaokrągleniem zobowiązania."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: komplet kont. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Suma końcowych sald nie jest sumą prawidłowo ustalonych średnich.",
+    "sourceScope": "art. 23–26 i 43",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 23–26 i 43"
+      }
+    ],
+    "calculators": [
+      "S09",
+      "S20"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T27",
+    "path": "praktyka/wplaty-wyplaty-transfer/",
+    "title": "Wpłata, wypłata i transfer: co oznaczają?",
+    "question": "Czym różnią się operacje i czego model jeszcze nie obsługuje?",
+    "category": "praktyka",
+    "answer": "Wpłata, wypłata i transfer są odrębnymi operacjami. Nie opisuj przeniesienia zwykłego portfela do OKI jako automatycznego transferu papierów bez sprzedaży.",
+    "sections": [
+      {
+        "heading": "Nazwij operację przed obliczeniem",
+        "paragraphs": [
+          "Ustawa definiuje kierunki transferu określonych aktywów. Sprzedaż poza OKI i późniejsza wpłata pieniędzy mogą tworzyć inne koszty i skutki niż transfer między kontami objętymi ustawą."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Konto źródłowe",
+          "Konto docelowe",
+          "Rodzaj aktywów"
+        ]
+      },
+      {
+        "heading": "Dane do weryfikacji",
+        "paragraphs": [
+          "Sprawdź formę obu kont, rodzaj aktywów, dokumenty instytucji i obowiązki informacyjne. Szczegółowy wpływ zamknięcia, transferu i terminów wycen wymaga analizy konkretnego przypadku. Nasz prosty analizator historii tych operacji nie obsługuje."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: konto źródłowe. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie stosuj uniwersalnego terminu wypłaty do każdej operacji i produktu.",
+    "sourceScope": "art. 2, 15 i 24",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 15 i 24"
+      }
+    ],
+    "calculators": [
+      "S10",
+      "S06"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T28",
+    "path": "praktyka/rozliczenie-roczne/",
+    "title": "Rozliczenie OKI: jakie dane przygotować",
+    "question": "Jakich danych i oficjalnej instrukcji wymaga rozliczenie?",
+    "category": "praktyka",
+    "answer": "Do rozliczenia przygotuj dane wszystkich kont i sprawdź oficjalne informacje w e-Urzędzie Skarbowym. Kalkulator edukacyjny nie zastępuje zeznania ani kompletnej dokumentacji instytucji.",
+    "sections": [
+      {
+        "heading": "Terminy ustawowe",
+        "paragraphs": [
+          "Ustawa przewiduje zeznanie przez e-US od 15 marca do 31 maja następnego roku oraz zapłatę do 31 maja. Informacja instytucji jest przekazywana do końca lutego. Pierwszy rok 2027 będzie rozliczany w 2028 r."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Komplet kont",
+          "Informacje instytucji",
+          "Instrukcja właściwego roku"
+        ]
+      },
+      {
+        "heading": "Jak przygotować dane już teraz",
+        "paragraphs": [
+          "Zachowuj listę kont, dokumenty klasyfikacji i informacje potrzebne do sprawdzenia średnich. Nie publikujemy fikcyjnej instrukcji ekranowej ani niepotwierdzonej nazwy formularza. Dostępne narzędzie historii obejmuje tylko wyraźnie określony prosty zakres."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: komplet kont. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie zakładamy automatycznie braku obowiązków tylko dlatego, że model pokazuje zero.",
+    "sourceScope": "art. 27–29 i 42",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 27–29 i 42"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S18"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T29",
+    "path": "praktyka/zamkniecie-konta/",
+    "title": "Co sprawdzić przed zamknięciem OKI",
+    "question": "Co zweryfikować przy zamknięciu konta?",
+    "category": "praktyka",
+    "answer": "Przed zamknięciem konta sprawdź rozliczenie, koszty, sposób wypłaty oraz dostęp do dokumentów po zakończeniu umowy. Samo zamknięcie nie usuwa historii wartości i przepływów.",
+    "sections": [
+      {
+        "heading": "Zachowaj dokumenty",
+        "paragraphs": [
+          "Ustal, jakie informacje otrzymasz za rok i jak pobrać historię. Osobno potwierdź procedurę dla instrumentów, których nie da się natychmiast sprzedać lub wypłacić."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Historia",
+          "Opłaty zakończenia",
+          "Dokumenty roczne"
+        ]
+      },
+      {
+        "heading": "Sprawdź zamiar operacji",
+        "paragraphs": [
+          "Wypłata i transfer mogą podlegać różnym warunkom. Zamknięcie w trakcie roku wymaga właściwej analizy średnich; pełnoroczny analizator nie obsługuje takiego przypadku. Ten tekst jest listą pytań, nie uniwersalną instrukcją zamknięcia."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: historia. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie wyprowadzaj proporcjonalnego podatku wyłącznie z liczby miesięcy bez sprawdzenia reguł.",
+    "sourceScope": "art. 5, 15, 18 i 23–29",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 5, 15, 18 i 23–29"
+      }
+    ],
+    "calculators": [
+      "S18"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T30",
+    "path": "praktyka/dziedziczenie/",
+    "title": "OKI i dziedziczenie: jakie pytania zadać",
+    "question": "Jakie zasady zależą od formy konta i sytuacji?",
+    "category": "praktyka",
+    "answer": "Zasady po śmierci właściciela wymagają ustalenia formy konta, uprawnionych osób i dokumentów. Nie ma podstaw do ogólnej obietnicy, że każde dziedziczenie wszystkich aktywów OKI jest bez podatku.",
+    "sections": [
+      {
+        "heading": "Co rozpoznaje ustawa",
+        "paragraphs": [
+          "Ustawa przewiduje odpowiednie dyspozycje i transfery w określonych sytuacjach. Stosuje też przepisy właściwe dla danej formy rachunku. Nie należy mieszać tego z kompletną analizą podatku spadkowego lub zagranicznego."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Forma konta",
+          "Dyspozycje",
+          "Dokumenty instytucji"
+        ]
+      },
+      {
+        "heading": "Dokumenty do zebrania",
+        "paragraphs": [
+          "Zapytaj instytucję o dyspozycję, uprawnionych, wymagane dokumenty i dalsze możliwości. Skutki dla konkretnego spadkobiercy, państwa lub produktu wymagają osobnego sprawdzenia. Ten materiał nie ustala podatku od spadku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: forma konta. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie kopiuj zasad dziedziczenia IKE lub IKZE do OKI bez osobnej podstawy.",
+    "sourceScope": "art. 2, 9, 15 i 34",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 9, 15 i 34"
+      }
+    ],
+    "calculators": [],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T31",
+    "path": "instytucje/",
+    "title": "Gdzie będzie można założyć OKI?",
+    "question": "Kto zapowiedział OKI, a kto ma działający produkt?",
+    "category": "instytucje",
+    "answer": "Lista instytucji powinna rozróżniać edukację, przygotowania, zapowiedź z datą, warunki i rzeczywistą dostępność. To zestawienie źródeł, nie ranking najlepszych kont.",
+    "sections": [
+      {
+        "heading": "Co jest potwierdzeniem",
+        "paragraphs": [
+          "Bezpośredni komunikat podmiotu pozwala opisać zapowiedź. Dowód uruchomienia wymaga informacji o faktycznym otwieraniu produktu. Warunki zwykłego konta lub IKE nie stają się automatycznie taryfą OKI."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Status",
+          "Źródło",
+          "Data sprawdzenia"
+        ]
+      },
+      {
+        "heading": "Jak czytać braki",
+        "paragraphs": [
+          "Brak potwierdzenia nie oznacza, że instytucja nie planuje produktu. Zapisujemy datę, źródło i brakujące dokumenty. Zestawienie nie jest pełnym przeglądem rynku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: status. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie wybieraj operatora na podstawie samej deklarowanej daty startu.",
+    "sourceScope": "komunikaty instytucji; art. 2 i 4",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "komunikaty instytucji; art. 2 i 4"
+      }
+    ],
+    "calculators": [
+      "S13",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T32",
+    "path": "praktyka/przed-otwarciem/",
+    "title": "Co sprawdzić przed otwarciem OKI?",
+    "question": "Jakie pytania zadać przed podpisaniem umowy?",
+    "category": "praktyka",
+    "answer": "Przed otwarciem ustal cel, formę konta, zakres produktów, opłaty i zasady dostępu do pieniędzy. Przygotowana lista pytań pomaga porównać warunki bez zgadywania.",
+    "sections": [
+      {
+        "heading": "Kolejność sprawdzania",
+        "paragraphs": [
+          "Najpierw potwierdź podmiot i produkt. Potem umowę, taryfę, wypłaty, informacje roczne i kanały pomocy. Do symulacji przepisz tylko te koszty, które rozumiesz i potrafisz powiązać z planem."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Podmiot",
+          "Umowa i taryfa",
+          "Niewyjaśnione warunki"
+        ]
+      },
+      {
+        "heading": "Zachowaj niewiadome",
+        "paragraphs": [
+          "Jeżeli nie znasz grupy instrumentu lub warunków wypłaty, nie zamieniaj ich na korzystne domyślne założenie. Możesz zatrzymać porównanie i doprecyzować dane przed zawarciem umowy."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: podmiot. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Ta lista nie zastępuje dokumentów ani oceny ryzyka konkretnego produktu.",
+    "sourceScope": "art. 5, 7 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 5, 7 i 18"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T33",
+    "path": "wybor/jak-wybrac-operatora/",
+    "title": "Jak wybrać swoje pierwsze OKI?",
+    "question": "Jak wybrać podmiot prowadzący OKI do własnego sposobu korzystania?",
+    "category": "wybor",
+    "answer": "Operatora porównuj według własnego sposobu korzystania: formy konta, dostępnych produktów, kosztu planu, wypłat, dokumentów i obsługi. Nie ma jednego wyniku punktowego dobrego dla każdej osoby.",
+    "sections": [
+      {
+        "heading": "Najpierw warunki konieczne",
+        "paragraphs": [
+          "Jeżeli potrzebnego produktu lub sposobu obsługi nie ma w ofercie, sama niższa opłata nie rozstrzyga. Wybierz kryteria istotne dla celu i potwierdź je w oficjalnym dokumencie."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Forma i zakres",
+          "Koszt planu",
+          "Dostęp i wsparcie"
+        ]
+      },
+      {
+        "heading": "Następnie rachunek i pytania",
+        "paragraphs": [
+          "Policz taryfę przy tych samych kwotach i aktywności. Osobno zapisz ograniczenia oraz niewiadome. W arkuszu wyboru można zestawić A i B bez podawania danych kontaktowych i bez wysyłania ich do instytucji."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: forma i zakres. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "To metoda wyboru, nie rekomendacja konkretnej oferty ani ukryty ranking afiliacyjny.",
+    "sourceScope": "art. 2, 5, 7, 17–18; własna checklista",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 5, 7, 17–18; własna checklista"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S13",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T34",
+    "path": "wybor/forma-konta/",
+    "title": "Różne formy OKI: co wybierasz oprócz nazwy?",
+    "question": "Jak porównać formy OKI i ich ograniczenia?",
+    "category": "wybor",
+    "answer": "Forma OKI określa ważną część dostępnych produktów i zasad obsługi. Nie należy utożsamiać wszystkich rachunków, rejestrów i produktów tylko dlatego, że mają wspólny skrót.",
+    "sections": [
+      {
+        "heading": "Co sprawdzić w formie",
+        "paragraphs": [
+          "Ustawa obejmuje formy bankową, maklerską, funduszową, UFK i DFE. Rzeczywisty zakres zależy od uprawnień i oferty instytucji, a ochrona i ryzyko od formy oraz produktu."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Forma prawna",
+          "Dostępne aktywa",
+          "Zakres parasola"
+        ]
+      },
+      {
+        "heading": "Parasol ma zakres",
+        "paragraphs": [
+          "Umowa parasolowa nie oznacza dostępu do całego rynku. Obejmuje określone formy i ofertę koordynatora. Sprawdź, które produkty są rzeczywiście połączone i jakie dokumenty otrzymasz."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: forma prawna. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Łatwa obsługa jednej formy nie dowodzi identycznych możliwości innej.",
+    "sourceScope": "art. 2–4",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2–4"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T35",
+    "path": "wybor/arkusz-porownania-operatorow/",
+    "title": "Porównaj dwa OKI krok po kroku",
+    "question": "Jak samodzielnie zestawić operatorów według tych samych kryteriów?",
+    "category": "wybor",
+    "answer": "Arkusz wyboru powinien porównywać te same kryteria, z datą i źródłem odpowiedzi. Nieznana informacja to niewiadoma, a nie zero punktów lub zero kosztu.",
+    "sections": [
+      {
+        "heading": "Kolumny arkusza",
+        "paragraphs": [
+          "Zapisz ofertę A, ofertę B, dowód, datę, znaczenie dla planu i pytanie do wyjaśnienia. Uzupełnij formę, produkty, opłaty, wypłaty, obsługę, ochronę i dokumenty roczne."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Warunki konieczne",
+          "Źródła ofert",
+          "Brakujące odpowiedzi"
+        ]
+      },
+      {
+        "heading": "Jak wykorzystać zestawienie",
+        "paragraphs": [
+          "Oddziel warunki konieczne od kosztu. Kwoty opłat policz na wspólnym scenariuszu; pozostałych cech nie przeliczaj arbitralnie na pozornie obiektywną średnią. Arkusz działa lokalnie i można go wydrukować."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: warunki konieczne. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Opis instytucji, własny test i niezależny dokument to różne rodzaje dowodu.",
+    "sourceScope": "własna checklista; art. 5 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna checklista; art. 5 i 18"
+      }
+    ],
+    "calculators": [
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T36",
+    "path": "wybor/wygoda-i-obsluga/",
+    "title": "Czy poradzisz sobie z obsługą wybranego OKI?",
+    "question": "Jak sprawdzić wygodę i dostęp do wsparcia przed wyborem?",
+    "category": "wybor",
+    "answer": "Wygodę sprawdzaj przez zadania, które zamierzasz wykonywać: wpłatę, odczyt dokumentów, wypłatę i kontakt z pomocą. Nie zakładaj, że ocena aplikacji do innego produktu opisuje również OKI.",
+    "sections": [
+      {
+        "heading": "Scenariusz do sprawdzenia",
+        "paragraphs": [
+          "Zapisz, gdzie odszukasz taryfę, historię, dane roczne i instrukcję wypłaty. Jeśli jest dostępna demonstracja lub opis funkcji, odróżnij deklarację instytucji od samodzielnie wykonanego testu."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kanał obsługi",
+          "Dokumenty",
+          "Kontakt z pomocą"
+        ]
+      },
+      {
+        "heading": "Własne wymagania",
+        "paragraphs": [
+          "Obsługa wyłącznie z aplikacji, pomoc telefoniczna lub dostęp do dokumentów na większym ekranie mogą mieć różne znaczenie dla różnych osób. Nie przypisujemy tych potrzeb automatycznie według wieku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kanał obsługi. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie wystawiamy ocen użyteczności operatorów, których nie przetestowaliśmy.",
+    "sourceScope": "własna metoda oceny obsługi",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda oceny obsługi"
+      }
+    ],
+    "calculators": [
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T37",
+    "path": "wybor/promocja-i-warunki/",
+    "title": "Promocja OKI: co policzyć poza premią?",
+    "question": "Jak odróżnić czasową promocję od kosztu całego planu?",
+    "category": "wybor",
+    "answer": "Promocję oceniaj wraz z warunkami uzyskania premii i kosztami po jej zakończeniu. Jednorazowy bonus nie opisuje całego okresu korzystania z konta.",
+    "sections": [
+      {
+        "heading": "Warunki do zapisania",
+        "paragraphs": [
+          "Ustal termin, wymagane działania, minimalne kwoty, wyłączenia i sposób naliczenia. Oddziel potwierdzony dokument od zapowiedzi reklamy. Nie zakładaj uzyskania premii bez spełnienia warunków."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Regulamin",
+          "Warunki premii",
+          "Późniejsza taryfa"
+        ]
+      },
+      {
+        "heading": "Porównanie całego planu",
+        "paragraphs": [
+          "Zestaw koszt w przyjętym horyzoncie z promocją i bez niej. Nasz prosty model rocznej taryfy nie odtwarza automatycznie okresów promocyjnych ani kwalifikacji do bonusu; te przepływy trzeba opisać osobno."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: regulamin. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie traktuj hipotetycznej premii jako pewnego wyniku inwestycji.",
+    "sourceScope": "regulamin konkretnej promocji; art. 5 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "regulamin konkretnej promocji; art. 5 i 18"
+      }
+    ],
+    "calculators": [
+      "S13",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T38",
+    "path": "wybor/zmiana-operatora/",
+    "title": "Chcesz zmienić operatora OKI? Najpierw zbierz dane",
+    "question": "Co sprawdzić przed zmianą instytucji prowadzącej OKI?",
+    "category": "wybor",
+    "answer": "Zmiana operatora wymaga ustalenia rodzaju operacji i warunków obu instytucji. Zanim wydasz dyspozycję, potwierdź, czy chodzi o transfer określonych aktywów, sprzedaż czy wypłatę pieniędzy.",
+    "sections": [
+      {
+        "heading": "Porównaj stan przed i po",
+        "paragraphs": [
+          "Zapisz produkty, koszty, dostępność, dokumenty i rozliczenie roku. Nie każdy instrument lub forma konta ma identyczną ścieżkę. Ogólna informacja o transferze nie zastępuje instrukcji dla Twoich aktywów."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Operacja",
+          "Dokument celu",
+          "Koszty i informacje"
+        ]
+      },
+      {
+        "heading": "Lista do uzgodnienia",
+        "paragraphs": [
+          "Zapytaj o wymagany rachunek docelowy, dokumenty, opłaty i ciągłość informacji o wycenach. Prosty model sprzedaży starego portfela nie jest kalkulatorem transferu między operatorami."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: operacja. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie obiecujemy, że przeniesienie jest bezkosztowe lub neutralne w każdym przypadku.",
+    "sourceScope": "art. 2, 15, 18 i 24",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 15, 18 i 24"
+      }
+    ],
+    "calculators": [
+      "S13",
+      "S18"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T39",
+    "path": "sytuacje/pierwsza-praca/",
+    "title": "Pierwsza praca i pierwsze oszczędności: jak ułożyć plan?",
+    "question": "Jak ułożyć pierwszy plan przy nowych i zmiennych wydatkach?",
+    "category": "sytuacje",
+    "answer": "Przy pierwszej pracy zacznij od rzeczywistej nadwyżki i możliwości zmiany planu. Nie musisz od razu deklarować stałej kwoty na wiele lat.",
+    "sections": [
+      {
+        "heading": "Plan pierwszych wpłat",
+        "paragraphs": [
+          "Zapisz wydatki, własną kwotę początkową i terminy, w których możesz odkładać. Kalkulator nie wyznacza obowiązkowego procentu pensji. Oznacz część pieniędzy, której możesz potrzebować wcześniej."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Własne kwoty",
+          "Terminy",
+          "Możliwość przerwy"
+        ]
+      },
+      {
+        "heading": "Sprawdź elastyczność",
+        "paragraphs": [
+          "Policz scenariusz regularny oraz przerwę. Porównaj, ile wynika z wpłat, a ile z założonego wzrostu. Dopiero potem sprawdź formę konta i taryfę; korzyść podatkowa nie wyjaśnia całej decyzji."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: własne kwoty. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "To plan samodzielnego sprawdzenia, nie zalecenie inwestowania całej nadwyżki.",
+    "sourceScope": "własna metoda planowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda planowania"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S03",
+      "S23"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T40",
+    "path": "sytuacje/nieregularne-dochody/",
+    "title": "Nie masz stałych dochodów? Ułóż własny kalendarz wpłat",
+    "question": "Jak planować wpłaty bez stałej nadwyżki co miesiąc?",
+    "category": "sytuacje",
+    "answer": "Przy zmiennych dochodach ważniejsza jest własna lista możliwych wpłat niż wymuszona rata oszczędzania. Plan może zawierać miesiące bez wpłaty.",
+    "sections": [
+      {
+        "heading": "Kalendarz nadwyżek",
+        "paragraphs": [
+          "Wprowadź kwoty i miesiące, które rzeczywiście chcesz sprawdzić. Stała wpłata może służyć jako odniesienie, ale lista zastępuje ją w modelu nieregularnym. Nie dodajemy jej drugi raz."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Lista miesięcy",
+          "Kwoty",
+          "Wariant przerwy"
+        ]
+      },
+      {
+        "heading": "Dwa scenariusze budżetu",
+        "paragraphs": [
+          "Porównaj plan bazowy i wariant z mniejszą liczbą wpłat lub dłuższą przerwą. Nie zwiększaj założonego zwrotu, aby wyrównać niepewne wpływy. Wynik to nominalny model bez podatków."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: lista miesięcy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Model nie zakłada wysokości dochodów, zawodu ani przyszłych zleceń.",
+    "sourceScope": "własna metoda harmonogramu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda harmonogramu"
+      }
+    ],
+    "calculators": [
+      "S21",
+      "S23",
+      "S24"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T41",
+    "path": "sytuacje/premia-lub-wieksza-kwota/",
+    "title": "Premia lub większa kwota: od czego zacząć planowanie?",
+    "question": "Jak rozdzielić analizę jednorazowej kwoty między cele i terminy?",
+    "category": "sytuacje",
+    "answer": "Jednorazową większą kwotę najpierw powiąż z celami i terminami. Nie trzeba traktować całej premii jako jednego długoterminowego planu.",
+    "sections": [
+      {
+        "heading": "Podział analizy według potrzeb",
+        "paragraphs": [
+          "Zapisz, jaka kwota ma być użyta wcześniej, a jaka służy dłuższemu celowi. To Twoje dane planistyczne, nie zalecana przez serwis alokacja. Oddziel własność pieniędzy od celu ich wykorzystania."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota do analizy",
+          "Cele",
+          "Daty wykorzystania"
+        ]
+      },
+      {
+        "heading": "Porównaj konkretne warianty",
+        "paragraphs": [
+          "Model jednorazowej wpłaty pokazuje wpływ horyzontu i kosztów. Wariant większego wydatku pozwoli sprawdzić, co zostaje po wypłacie. Żaden z tych modeli nie gwarantuje terminu sprzedaży instrumentu."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota do analizy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie ustawiamy automatycznej rekomendacji wpłaty całej kwoty na OKI.",
+    "sourceScope": "własna metoda celów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda celów"
+      }
+    ],
+    "calculators": [
+      "S02",
+      "S03",
+      "S12"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T42",
+    "path": "sytuacje/koniec-lokaty/",
+    "title": "Kończy Ci się lokata — jak porównać kolejne możliwości?",
+    "question": "Co porównać, gdy kończy się dotychczasowa lokata?",
+    "category": "sytuacje",
+    "answer": "Gdy kończy się lokata, porównaj warunki odnowienia i rzeczywistą alternatywę. Ten sam procent na reklamie może oznaczać inny okres, kapitalizację, koszty lub warunki wypłaty.",
+    "sections": [
+      {
+        "heading": "Zbierz dokumenty przed porównaniem",
+        "paragraphs": [
+          "Zapisz kwotę, datę końca, warunki odnowienia i ewentualny okres promocyjny. Dla alternatywy ustal formę produktu, koszty, dostępność i ryzyko, zamiast porównywać samą etykietę konta."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Warunki odnowienia",
+          "Warunki alternatywy",
+          "Wspólny horyzont"
+        ]
+      },
+      {
+        "heading": "Użyj zgodnych założeń",
+        "paragraphs": [
+          "W narzędziu przyjmij ten sam kapitał i horyzont. Jeśli konstrukcja lokaty nie odpowiada modelowi stałego zwrotu, wynik będzie orientacyjny; nie przedstawiaj go jako dokładnego rozliczenia umowy."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: warunki odnowienia. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Materiał nie wskazuje konkretnej lokaty ani operatora jako najlepszego.",
+    "sourceScope": "dokumenty depozytu; metodologia porównania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "dokumenty depozytu; metodologia porównania"
+      }
+    ],
+    "calculators": [
+      "S02",
+      "S05",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T43",
+    "path": "sytuacje/poduszka-finansowa/",
+    "title": "Rezerwa na nagłe wydatki a plan OKI",
+    "question": "Jak oddzielić rezerwę na nagłe wydatki od planu inwestycyjnego?",
+    "category": "sytuacje",
+    "answer": "Pieniądze na nagłe wydatki analizuj przez potrzebę dostępu i możliwość zmiany wartości. Sama nazwa OKI nie czyni każdego instrumentu odpowiednią rezerwą.",
+    "sections": [
+      {
+        "heading": "Zapisz własną sytuację awaryjną",
+        "paragraphs": [
+          "Określ przykładową kwotę wydatku i termin, w którym pieniądze musiałyby być dostępne. Nie narzucamy uniwersalnej wielkości rezerwy ani liczby miesięcy kosztów życia."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota awaryjna",
+          "Czas dostępu",
+          "Pozostały plan"
+        ]
+      },
+      {
+        "heading": "Sprawdź dostępność i skutek",
+        "paragraphs": [
+          "Warunki wypłaty wynikają z produktu i umowy. W kalkulatorze większego wydatku zobacz wpływ na dalszy kapitał, pamiętając, że model nie bada płynności i nie uwzględnia pełnych podatków sprzedaży."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota awaryjna. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Wynik kapitałowy nie jest testem bezpieczeństwa instrumentu.",
+    "sourceScope": "własna metoda scenariusza; art. 5 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda scenariusza; art. 5 i 18"
+      }
+    ],
+    "calculators": [
+      "S12",
+      "S23"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T44",
+    "path": "sytuacje/wklad-wlasny/",
+    "title": "Odkładasz na wkład własny? Policz kwotę i termin",
+    "question": "Jak zaplanować cel mieszkaniowy z terminem wykorzystania środków?",
+    "category": "sytuacje",
+    "answer": "Cel mieszkaniowy wymaga konkretnej kwoty i daty wykorzystania środków. Przy porównaniu planów uwzględnij możliwość niedoboru i przesunięcia terminu, a nie wyłącznie podatek.",
+    "sections": [
+      {
+        "heading": "Zacznij od celu, nie od produktu",
+        "paragraphs": [
+          "Wpisz kwotę, którą chcesz mieć do dyspozycji, własny kapitał i horyzont. Kalkulator celu wyznacza wpłatę w uproszczonym modelu bez podatku. Nie ocenia zdolności kredytowej ani warunków banku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Kwota celu",
+          "Termin transakcji",
+          "Warunki dostępu"
+        ]
+      },
+      {
+        "heading": "Sprawdź mniej korzystny wariant",
+        "paragraphs": [
+          "Policz niższy zwrot i inny termin. Dostępność pieniędzy w dniu transakcji trzeba potwierdzić w dokumentach produktu. Model nie gwarantuje sprzedaży aktywów po założonej cenie."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: kwota celu. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "To nie jest rekomendacja instrumentu do wkładu własnego.",
+    "sourceScope": "własna metoda celu i ryzyka terminu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda celu i ryzyka terminu"
+      }
+    ],
+    "calculators": [
+      "S03",
+      "S04",
+      "S12",
+      "S16"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T45",
+    "path": "sytuacje/oszczedzanie-dla-dziecka/",
+    "title": "Odkładanie dla dziecka: cel, termin i wpłaty",
+    "question": "Jak ułożyć cel dla dziecka bez mylenia celu z własnością konta?",
+    "category": "sytuacje",
+    "answer": "Plan na potrzeby dziecka powinien określać właściciela środków, cel i termin. OKI dla celu dziecka nie oznacza, że samo dziecko jest właścicielem konta.",
+    "sections": [
+      {
+        "heading": "Ustal własność i dokumenty",
+        "paragraphs": [
+          "Ustawa OKI przewiduje właściciela pełnoletniego. Jeśli pieniądze mają być później przekazane innej osobie, skutki takiego przekazania wymagają odrębnego sprawdzenia; kalkulator celu nie analizuje darowizny."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Właściciel",
+          "Termin celu",
+          "Sposób przyszłego przekazania"
+        ]
+      },
+      {
+        "heading": "Policz cel i zmianę terminu",
+        "paragraphs": [
+          "Zestaw wymagane wpłaty dla dwóch terminów i jawnych założeń. Przy dwóch dorosłych właścicielach można porównać osobne plany z osobnymi podatkami. Nie tworzymy wspólnego limitu rodzinnego."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: właściciel. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie obiecujemy zwolnienia z podatków związanych z przekazaniem pieniędzy dziecku.",
+    "sourceScope": "art. 3; własna metoda planowania",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 3; własna metoda planowania"
+      }
+    ],
+    "calculators": [
+      "S03",
+      "S04",
+      "S22"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T46",
+    "path": "sytuacje/przerwa-w-pracy/",
+    "title": "Przerwa w pracy: co zmienić w planie wpłat?",
+    "question": "Jak przeliczyć plan po przerwie w dochodach?",
+    "category": "sytuacje",
+    "answer": "Przy przerwie w dochodach rozdziel wstrzymanie wpłat od konieczności wypłaty oszczędności. To dwa różne przepływy i mogą mieć inne skutki dla celu.",
+    "sections": [
+      {
+        "heading": "Zachowaj plan bazowy",
+        "paragraphs": [
+          "Sprawdź przerwę o wybranej długości bez automatycznego nadrabiania. Potem osobno dodaj większy wydatek lub regularną wypłatę. Nie dopisujemy przyszłego dochodu, którego nie podałeś."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Długość przerwy",
+          "Wydatki",
+          "Nowy termin"
+        ]
+      },
+      {
+        "heading": "Ponownie sprawdź horyzont",
+        "paragraphs": [
+          "Zmiana terminu celu lub wpłaty po przerwie tworzy nowy scenariusz. Wynik nie rozstrzyga świadczeń, podatków od zatrudnienia ani tego, które aktywa należy sprzedać."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: długość przerwy. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie zastępuj niepewnych wpływów optymistycznym założeniem zysku.",
+    "sourceScope": "własna metoda zmiany planu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda zmiany planu"
+      }
+    ],
+    "calculators": [
+      "S23",
+      "S12",
+      "S11"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T47",
+    "path": "sytuacje/przed-emerytura/",
+    "title": "Zbliża się emerytura: jak policzyć plan wypłat?",
+    "question": "Jak przejść od gromadzenia kapitału do planu korzystania z niego?",
+    "category": "sytuacje",
+    "answer": "Przed rozpoczęciem korzystania z kapitału warto oddzielić gromadzenie od harmonogramu wypłat. W różnych formach konta znaczenie mają także warunki kwalifikowanej wypłaty.",
+    "sections": [
+      {
+        "heading": "Zbierz istniejące plany",
+        "paragraphs": [
+          "Zapisz formę każdego konta, kapitał, warunki wypłat i dokumenty. Porównanie nowych planów IKE/IKZE nie odtwarza automatycznie historii już posiadanych produktów ani wcześniejszych transferów."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Formy kont",
+          "Warunki wypłat",
+          "Harmonogram potrzeb"
+        ]
+      },
+      {
+        "heading": "Przetestuj przepływy",
+        "paragraphs": [
+          "Model regularnych wypłat pokazuje kwotę przed podatkami i kosztami sprzedaży. Kolejność rocznych zwrotów może zmienić przebieg kapitału; osobno uwzględnij większe wydatki. Sam wiek nie określa ryzyka ani horyzontu."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: formy kont. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie wyznaczamy gwarantowanego dochodu emerytalnego.",
+    "sourceScope": "ustawa IKE/IKZE art. 34 i 34a; metodologia wypłat",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "ustawa IKE/IKZE art. 34 i 34a; metodologia wypłat"
+      },
+      {
+        "label": "Ustawa IKE/IKZE — art. 34 i 34a",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/707/text.html",
+        "scope": "Warunki wypłat, nie limity przyszłych lat."
+      }
+    ],
+    "calculators": [
+      "S11",
+      "S17",
+      "S26"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T48",
+    "path": "sytuacje/na-emeryturze/",
+    "title": "Oszczędności na emeryturze: policz własny plan korzystania",
+    "question": "Jak porównać wypłaty przy dodatkowych i nagłych wydatkach?",
+    "category": "sytuacje",
+    "answer": "Przy korzystaniu z oszczędności zestaw regularne potrzeby z większymi wydatkami. Nie zakładaj, że jedna kwota wypłaty będzie pasowała do każdego przebiegu rynku.",
+    "sections": [
+      {
+        "heading": "Własny harmonogram",
+        "paragraphs": [
+          "Określ kapitał, okres i terminy wypłat. Model końca miesiąca nie bada rzeczywistego terminu sprzedaży instrumentów. Pokaż osobno kapitał pozostały i kwoty faktycznie wypłacone."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Stałe potrzeby",
+          "Większe wydatki",
+          "Pozostały kapitał"
+        ]
+      },
+      {
+        "heading": "Sprawdź kolejność zmian wartości",
+        "paragraphs": [
+          "Narzędzie porównuje podaną listę rocznych zwrotów z odwróconą. Te same procenty mogą inaczej oddziaływać przy wypłatach. Brak środków ma oznaczenie, nie jest ukrywany jako wypłata pełnej kwoty."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: stałe potrzeby. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Emerytura nie oznacza automatycznie jednego właściwego poziomu ryzyka.",
+    "sourceScope": "własna metoda wypłat",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda wypłat"
+      }
+    ],
+    "calculators": [
+      "S11",
+      "S12",
+      "S26"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T49",
+    "path": "sytuacje/kredyt-a-oszczedzanie/",
+    "title": "Nadpłata kredytu czy oszczędzanie: co trzeba policzyć?",
+    "question": "Jakich danych wymaga porównanie nadpłaty kredytu z oszczędzaniem?",
+    "category": "sytuacje",
+    "answer": "Porównanie nadpłaty kredytu i oszczędzania wymaga harmonogramu oraz kosztów obu wariantów. Założony zwrot inwestycji nie ma tego samego charakteru co opisane w umowie koszty kredytu.",
+    "sections": [
+      {
+        "heading": "Dane przed liczeniem",
+        "paragraphs": [
+          "Zbierz saldo, harmonogram, sposób naliczania oprocentowania, prowizje i zasady nadpłaty. Określ, czy zmienia się rata, okres czy oba elementy. Ustal identyczny budżet i termin porównania."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Harmonogram kredytu",
+          "Warunki nadpłaty",
+          "Wspólny budżet"
+        ]
+      },
+      {
+        "heading": "Zakres dostępnych narzędzi",
+        "paragraphs": [
+          "Nasze kalkulatory OKI nie modelują nadpłaty kredytu i nie wybierają wariantu. Możesz przygotować scenariusz oszczędzania, ale pełne porównanie wymaga osobnego modelu kredytu i sprawdzenia umowy. Nie porównuj samych procentów."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: harmonogram kredytu. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Ten materiał jest listą danych do analizy, nie rekomendacją nadpłaty lub inwestycji.",
+    "sourceScope": "metoda przygotowania danych; umowa konkretnego kredytu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "metoda przygotowania danych; umowa konkretnego kredytu"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S05"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T50",
+    "path": "plany/pierwsze-oki/",
+    "title": "Pierwsze OKI: plan krok po kroku",
+    "question": "Jak przejść od celu do pierwszego sprawdzonego planu?",
+    "category": "plany",
+    "answer": "Pierwszy plan przeprowadź od celu i danych do porównania, a dopiero potem do sprawdzenia oferty. Otrzymany wynik powinien pokazywać także założenia i niewiadome.",
+    "sections": [
+      {
+        "heading": "Plan krok po kroku",
+        "paragraphs": [
+          "Zapisz cel i termin, określ kwoty oraz potrzeby dostępu, policz kapitał, porównaj formy konta i koszty. Wybierz instytucję na podstawie dokumentów, a nie samego przykładowego wyniku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Cel",
+          "Scenariusz",
+          "Lista niewiadomych"
+        ]
+      },
+      {
+        "heading": "Co zachować",
+        "paragraphs": [
+          "Zachowaj źródła warunków, wersję obliczenia i pytania do wyjaśnienia. Gdy zmienią się dane albo cel, przelicz scenariusz. Nie trzeba tworzyć konta w serwisie ani wysyłać nam kwot."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: cel. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Wydruk lub plik scenariusza może zawierać prywatne kwoty; udostępniaj go świadomie.",
+    "sourceScope": "własna ścieżka planowania; art. 5",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna ścieżka planowania; art. 5"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S05",
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T51",
+    "path": "plany/przeniesienie-oszczednosci/",
+    "title": "Chcesz skierować oszczędności do OKI? Ułóż plan",
+    "question": "Jak zaplanować kolejne kroki bez pomijania kosztów i terminów?",
+    "category": "plany",
+    "answer": "Zmianę miejsca oszczędności zacznij od stanu wyjściowego i rodzaju operacji. Kolejność sprzedaży, wypłaty, transferu i nowej wpłaty może mieć znaczenie dla kosztów i dokumentacji.",
+    "sections": [
+      {
+        "heading": "Przygotuj stan obecny",
+        "paragraphs": [
+          "Zapisz produkty, wartości, koszty nabycia, taryfy i terminy. Rozdziel operacje, które faktycznie planujesz, od hipotetycznych wariantów w kalkulatorze. Nie zakładaj przeniesienia dowolnych papierów bez sprzedaży."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Stan obecny",
+          "Wariant docelowy",
+          "Kolejność czynności"
+        ]
+      },
+      {
+        "heading": "Przed wykonaniem dyspozycji",
+        "paragraphs": [
+          "Potwierdź procedurę w obu instytucjach i zachowaj dokumenty. Model starego portfela uwzględnia uproszczoną sprzedaż teraz, ale nie wszystkie podatki, transfery i prowizje. Brak obsługi przypadku to powód do osobnej analizy."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: stan obecny. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Poradnik nie wykonuje przelewów ani zleceń i nie jest instrukcją każdej formy transferu.",
+    "sourceScope": "art. 2, 15, 18 i 24",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 15, 18 i 24"
+      }
+    ],
+    "calculators": [
+      "S02",
+      "S06",
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T52",
+    "path": "plany/przeglad-roczny/",
+    "title": "Roczny przegląd planu OKI: co sprawdzić?",
+    "question": "Co ponownie sprawdzić w swoim planie raz w roku?",
+    "category": "plany",
+    "answer": "Roczny przegląd planu obejmuje cel, wpłaty, koszty, aktualność reguł i dokumenty. Nie jest tym samym co złożenie rocznego zeznania.",
+    "sections": [
+      {
+        "heading": "Co się zmieniło?",
+        "paragraphs": [
+          "Zapisz różnice względem starego planu: termin, kwoty, potrzeby wypłat i taryfę. Zachowaj poprzednie założenia, aby wiedzieć, skąd bierze się zmiana wyniku."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Zmiana celu",
+          "Aktualna taryfa",
+          "Właściwy rok"
+        ]
+      },
+      {
+        "heading": "Kontrola danych i zasad",
+        "paragraphs": [
+          "Sprawdź źródła stawki i progów dla właściwego roku oraz informacje o wszystkich kontach. Przyszłych założeń z dawnego modelu nie przenoś do rozliczenia jako rzeczywistych parametrów."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: zmiana celu. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie odświeżaj daty weryfikacji bez rzeczywistego sprawdzenia dokumentów.",
+    "sourceScope": "art. 25–29; własna checklista przeglądu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 25–29; własna checklista przeglądu"
+      }
+    ],
+    "calculators": [
+      "S08",
+      "S13",
+      "S16"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T53",
+    "path": "plany/zmiana-celu/",
+    "title": "Zmieniły się plany? Przelicz wpłaty i termin",
+    "question": "Jak przeliczyć plan po zmianie terminu lub celu?",
+    "category": "plany",
+    "answer": "Po zmianie celu zachowaj stary scenariusz i przelicz nowy termin, kwotę lub harmonogram. Dzięki temu odróżnisz skutki planu od zmiany założeń zwrotu.",
+    "sections": [
+      {
+        "heading": "Wprowadź faktyczną zmianę",
+        "paragraphs": [
+          "Najpierw zmień jeden element: nową kwotę, przerwę albo wydatek. Dopiero potem zestaw pełny nowy wariant. Narzędzie celu może wskazać, że nie ma rozwiązania w zadanym zakresie."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Stary plan",
+          "Nowy cel",
+          "Zmiana przepływów"
+        ]
+      },
+      {
+        "heading": "Dostosuj zakres modelu",
+        "paragraphs": [
+          "Wypłata w trakcie planu wymaga narzędzia przepływów. Nie odejmuj jej wyłącznie od końcowej kwoty, jeśli chcesz uwzględnić termin i późniejszy wzrost. Podatki i płynność pozostają odrębnymi elementami."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: stary plan. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie zwiększaj automatycznie oczekiwanego zwrotu, aby dopasować wynik do celu.",
+    "sourceScope": "własna metoda porównania planów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda porównania planów"
+      }
+    ],
+    "calculators": [
+      "S03",
+      "S04",
+      "S12",
+      "S23"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T54",
+    "path": "wskazowki/oprocentowanie-a-stopa-zwrotu/",
+    "title": "Oprocentowanie i stopa zwrotu: jak je czytać?",
+    "question": "Dlaczego nie należy porównywać samych procentów z różnych produktów?",
+    "category": "wskazowki",
+    "answer": "Oprocentowanie, stopa zwrotu i zmiana kapitału nie zawsze opisują to samo. Porównaj okres, kapitalizację i zakres kosztów, zanim zestawisz dwa procenty.",
+    "sections": [
+      {
+        "heading": "Procent od czego i za jaki czas?",
+        "paragraphs": [
+          "Ustal podstawę i horyzont. Roczny procent, wynik za kilka lat i oprocentowanie nominalne z inną kapitalizacją nie są bezpośrednio zamienne. Zwrot modelowy nie jest obietnicą produktu."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Okres",
+          "Kapitalizacja",
+          "Zakres wyniku"
+        ]
+      },
+      {
+        "heading": "Koszty i podatki",
+        "paragraphs": [
+          "Sprawdź, czy podany wynik jest przed opłatami lub po nich. Gdy koszt produktu już obniża założony zwrot, dodatkowe odjęcie może go policzyć dwa razy. Nasze wyniki oznaczają, czy obejmują modelowy podatek."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: okres. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Różnica o jeden punkt procentowy nie oznacza wzrostu każdej kwoty o jeden procent.",
+    "sourceScope": "własna metodologia jednostek i procentów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metodologia jednostek i procentów"
+      }
+    ],
+    "calculators": [
+      "S01",
+      "S02",
+      "S05"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T55",
+    "path": "wskazowki/wynik-kalkulatora/",
+    "title": "Jak czytać wynik kalkulatora OKI?",
+    "question": "Jak sprawdzić założenia przed wykorzystaniem wyniku?",
+    "category": "wskazowki",
+    "answer": "Wynik czytaj razem z danymi, trybem i ograniczeniami. Wysoka precyzja wyświetlania nie oznacza pewności przyszłego zwrotu ani kompletności rozliczenia.",
+    "sections": [
+      {
+        "heading": "Cztery elementy kontroli",
+        "paragraphs": [
+          "Sprawdź kapitał wpłacony, wartość końcową, opłaty i podatki. Nazwa różnicy określa kolejność odejmowania. Ujemna różnica wariantów nie jest ujemnym podatkiem."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Dane wejściowe",
+          "Tryb obliczenia",
+          "Wersja i ograniczenia"
+        ]
+      },
+      {
+        "heading": "Sprawdź, co pominięto",
+        "paragraphs": [
+          "Rozliczenie na gotowych średnich i model przyszłego kapitału to inne narzędzia. Odczytaj rok, wersję oraz źródła. Jeśli sytuacja wykracza poza zakres, nie wybieraj domyślnych danych tylko po to, aby otrzymać liczbę."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: dane wejściowe. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Własne kwoty nie są automatycznie poprawnie zaklasyfikowanymi danymi podatkowymi.",
+    "sourceScope": "metodologia kalkulatorów",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "metodologia kalkulatorów"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S08",
+      "S16"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T56",
+    "path": "wskazowki/bledy-w-porownaniach/",
+    "title": "Co łatwo pominąć przy porównywaniu OKI?",
+    "question": "Jakie pominięcia zmieniają sens porównania?",
+    "category": "wskazowki",
+    "answer": "Najczęstsze pułapki modelowe to różne przepływy, pominięte opłaty, niezgodne terminy sprzedaży i mylenie salda ze średnią. Kontrola tych elementów jest ważniejsza niż sam znak różnicy.",
+    "sections": [
+      {
+        "heading": "Zrównaj warianty",
+        "paragraphs": [
+          "Sprawdź kwoty, daty i horyzont. Oddziel cenę instrumentu od przepływów, uwzględnij faktyczną liczbę kont. Nie zakładaj, że ten sam procent opłaty ma identyczną podstawę w obu taryfach."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Wspólna baza",
+          "Koszty",
+          "Pominięte przypadki"
+        ]
+      },
+      {
+        "heading": "Oznacz zakres uproszczeń",
+        "paragraphs": [
+          "Waluty, podatki zagraniczne, straty, prowizje i wcześniejsze wypłaty mogą wymagać osobnych modeli. Nie opisuj porównania jednego konta jako analizy całej sytuacji podatnika."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: wspólna baza. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Sama zgodność wyników dwóch interfejsów nie dowodzi poprawności reguł; potrzebne są testy i źródła.",
+    "sourceScope": "własna metoda kontroli; art. 23–26",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "własna metoda kontroli; art. 23–26"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S13",
+      "S16"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T57",
+    "path": "wybor/czy-oki-pasuje-do-planu/",
+    "title": "Czy OKI pasuje do Twojego planu? Pytania do sprawdzenia",
+    "question": "Jak sprawdzić zgodność formy konta z własnym celem bez automatycznej rekomendacji?",
+    "category": "wybor",
+    "answer": "Zgodność OKI z planem sprawdza się przez cel, termin, dostęp do środków, koszty i zakres produktów. Sama możliwość zwolnienia nie przesądza o właściwości całej decyzji.",
+    "sections": [
+      {
+        "heading": "Zacznij od własnych warunków",
+        "paragraphs": [
+          "Zapisz, kiedy i na co pieniądze mogą być potrzebne oraz jaki scenariusz chcesz porównać. Nie dobieramy instrumentów ani ryzyka na podstawie wieku, dochodu lub wybranej strony."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Cel",
+          "Dostęp",
+          "Koszt i klasyfikacja"
+        ]
+      },
+      {
+        "heading": "Co powinno zostać wyjaśnione",
+        "paragraphs": [
+          "Ustal formę konta, grupę instrumentu, taryfę i zakres modelu. Porównanie z alternatywnym planem wymaga zgodnych przepływów. Gdy warunek jest nieznany, wynik powinien pozostać warunkowy."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: cel. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nasze narzędzia nie wydają automatycznej rekomendacji otwarcia konta.",
+    "sourceScope": "art. 2, 5 i 18; własna checklista celu",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 2, 5 i 18; własna checklista celu"
+      }
+    ],
+    "calculators": [
+      "S05",
+      "S12",
+      "S13"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T58",
+    "path": "wybor/dokumenty-przed-umowa/",
+    "title": "Jakie dokumenty przeczytać przed otwarciem OKI?",
+    "question": "Jak uporządkować dokumenty i odszukać warunki przed podpisaniem umowy?",
+    "category": "wybor",
+    "answer": "Przed umową odszukaj dokument opisujący konto, taryfę i właściwe dokumenty produktu. Zapisuj wersje i daty, aby później móc odtworzyć warunki porównania.",
+    "sections": [
+      {
+        "heading": "Mapa dokumentów",
+        "paragraphs": [
+          "Sprawdź dane podmiotu, formę konta, instrumenty, opłaty, wypłaty, zmiany warunków i informacje roczne. To, że dokument dotyczy IKE lub zwykłego rachunku, nie oznacza automatycznie stosowania do OKI."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Umowa",
+          "Taryfa",
+          "Dokument produktu"
+        ]
+      },
+      {
+        "heading": "Lista pytań",
+        "paragraphs": [
+          "Przy niezrozumiałym zapisie zapytaj o jego znaczenie dla własnych czynności. Zachowaj odpowiedź i potwierdzenie właściwej wersji. Nie przypisujemy fikcyjnych warunków nieopublikowanym ofertom."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: umowa. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Ten materiał pomaga odnaleźć warunki, ale nie zastępuje przeczytania umowy.",
+    "sourceScope": "art. 5, 7 i 18",
+    "sources": [
+      {
+        "label": "Ustawa o osobistych kontach inwestycyjnych",
+        "url": "https://eli.gov.pl/eli/DU/2026/1098/ogl/pol",
+        "scope": "art. 5, 7 i 18"
+      }
+    ],
+    "calculators": [
+      "S13",
+      "S27"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T59",
+    "path": "praktyka/problem-i-reklamacja/",
+    "title": "Co zrobić, gdy pojawi się problem z obsługą OKI?",
+    "question": "Jak zebrać dokumenty i znaleźć właściwą ścieżkę reklamacji?",
+    "category": "praktyka",
+    "answer": "Przy problemie z obsługą zachowaj dokumenty i ustal oficjalną ścieżkę reklamacji podmiotu. Dalsza pomoc zależy od formy usługi i kompetencji właściwej instytucji.",
+    "sections": [
+      {
+        "heading": "Przygotuj zgłoszenie",
+        "paragraphs": [
+          "Zapisz zdarzenie, daty, oczekiwane wyjaśnienie i dowody. Korzystaj z oficjalnego kanału, a nie danych kontaktowych przesłanych przez niezweryfikowaną osobę. Nie publikuj prywatnych dokumentów w publicznych komentarzach."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Opis zdarzenia",
+          "Dowody",
+          "Oficjalny kanał"
+        ]
+      },
+      {
+        "heading": "Sprawdź dalsze możliwości",
+        "paragraphs": [
+          "Rzecznik Finansowy udostępnia informacje o pomocy i postępowaniach. Właściwość i warunki trzeba sprawdzić dla konkretnej sprawy. Ten tekst nie podaje uniwersalnego terminu ani nie gwarantuje rozstrzygnięcia."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: opis zdarzenia. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nie wysyłaj do naszego publicznego repozytorium numerów rachunków, PESEL ani dokumentów reklamacji.",
+    "sourceScope": "Rzecznik Finansowy — informacje dla klientów; dokumenty podmiotu",
+    "sources": [
+      {
+        "label": "Rzecznik Finansowy — dla klientów",
+        "url": "https://rf.gov.pl/dla-klientow/",
+        "scope": "Rodzaje pomocy; kompetencje należy ustalić dla konkretnej sprawy."
+      }
+    ],
+    "calculators": [],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "T60",
+    "path": "wskazowki/bezpieczenstwo-dostepu/",
+    "title": "Jak sprawdzić, czy otwierasz OKI w oficjalnym kanale?",
+    "question": "Jak sprawdzić oficjalny kanał i ochronę dostępu do konta?",
+    "category": "wskazowki",
+    "answer": "Oficjalny kanał sprawdzaj niezależnie od reklamy lub otrzymanej wiadomości. Nazwa, logo i brak podmiotu na liście ostrzeżeń nie zastępują potwierdzenia jego tożsamości i uprawnień.",
+    "sections": [
+      {
+        "heading": "Zidentyfikuj podmiot i adres",
+        "paragraphs": [
+          "Porównaj prawną nazwę, oficjalną stronę i właściwe rejestry. Lista ostrzeżeń KNF jest dodatkowym źródłem, a nie kompletną listą podmiotów bezpiecznych. Nie podawaj danych logowania w naszym serwisie."
+        ]
+      },
+      {
+        "heading": "Zacznij od trzech danych",
+        "items": [
+          "Prawna nazwa",
+          "Oficjalny adres",
+          "Zakres uprawnień"
+        ]
+      },
+      {
+        "heading": "Dane kalkulatora a konto finansowe",
+        "paragraphs": [
+          "Nasze narzędzia nie logują się do instytucji, nie wykonują transakcji i nie potrzebują numeru rachunku. Korzystanie z asystenta oznacza jednak przekazanie jego środowisku argumentów i wyniku."
+        ]
+      },
+      {
+        "heading": "Jak sprawdzić swój przypadek",
+        "paragraphs": [
+          "Wybierz najpierw jeden element: prawna nazwa. Ustal, skąd pochodzi ta informacja i czy dotyczy Twojej sytuacji. Następnie uzupełnij pozostałe dane. Gdy czegoś nie wiesz, zostaw pytanie do wyjaśnienia, zamiast wybierać domyślnie korzystniejszy wariant."
+        ],
+        "items": [
+          "Oddziel własne dane od hipotetycznego przykładu.",
+          "Przeczytaj zakres narzędzia przed wpisaniem kwot.",
+          "Zmień jedną rzecz, aby zobaczyć jej wpływ."
+        ]
+      }
+    ],
+    "caveat": "Nigdy nie potrzebujemy Twojego hasła ani kodu do zatwierdzania operacji.",
+    "sourceScope": "KNF — lista ostrzeżeń; własny zakres przetwarzania",
+    "sources": [
+      {
+        "label": "KNF — lista ostrzeżeń publicznych",
+        "url": "https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne",
+        "scope": "Lista ostrzeżeń nie zastępuje weryfikacji w innych wiarygodnych źródłach."
+      }
+    ],
+    "calculators": [],
+    "checkedAt": "2026-11-08"
+  }
+]
