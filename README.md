@@ -1,6 +1,6 @@
 # prosteoki
 
-Niezależny serwis edukacyjny o OKI, rozwijany w projekcie slss. Wersja 1.0.0 przygotowana 2026-11-09; źródła podstawowych reguł sprawdzone 2026-11-08. Docelowa domena: `prosteoki.pl`. Repozytorium: https://github.com/slss/prosteoki .
+Niezależny serwis edukacyjny o OKI, rozwijany w projekcie slss. Wersja 1.0.0 przygotowana 2026-11-09; źródła podstawowych reguł sprawdzone 2026-11-08. Domena produkcyjna: `https://prosteoki.pl/`. DNS i przypisanie Pages ustawione 2026-11-09; bieżący stan TLS i Google w raporcie domen. Repozytorium: https://github.com/slss/prosteoki .
 
 ## Uruchomienie
 
