@@ -2,3 +2,9 @@ dist/
 .cache/
 node_modules/
 .DS_Store
+.wrangler/
+.dev.vars*
+monte-carlo/benchmark-local.json
+
+.playwright-cli/
+output/

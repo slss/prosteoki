@@ -26,6 +26,7 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Zbuduj produkcję
         env:
+          MONTE_CARLO_API_URL: ${{ vars.MONTE_CARLO_API_URL }}
           BUILD_TARGET: production
           SITE_URL: ${{ steps.pages.outputs.base_url }}
           INDEXABLE: 'true'

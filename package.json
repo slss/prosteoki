@@ -3,9 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node vendor/site/build.mjs",
+    "build": "node vendor/site/build.mjs && node scripts/build-monte-carlo.mjs",
     "check": "node vendor/site/check.mjs",
     "dev": "node vendor/site/server.mjs 8781",
-    "test": "node --test vendor/test/*.test.mjs"
+    "test": "node --test vendor/test/*.test.mjs monte-carlo/test/*.test.mjs",
+    "benchmark": "node monte-carlo/test/benchmark.mjs"
   }
 }

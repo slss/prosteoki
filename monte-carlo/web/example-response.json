@@ -1,0 +1,227 @@
+{
+  "version": "1.0.0",
+  "calculationId": "cbb204d5-7dad-4bd5-a1b6-d6aebbc0bf76",
+  "timestamp": "2026-11-13T17:15:45.351Z",
+  "computationMs": 2.698999999999998,
+  "simulationsExecuted": 100,
+  "parameters": {
+    "initial": 100000,
+    "monthly": 2000,
+    "years": 5,
+    "return": 0.07,
+    "volatility": 0.18,
+    "inflation": 0.03,
+    "simulations": 100,
+    "goal": 1000000
+  },
+  "results": {
+    "totalContributions": 220000,
+    "nominal": {
+      "p5": 152500.52386484595,
+      "p25": 205064.74418559158,
+      "p50": 259597.30402024876,
+      "p75": 319478.29420398327,
+      "p95": 485366.06158588664
+    },
+    "real": {
+      "p5": 131548.29150900294,
+      "p25": 176890.6497019827,
+      "p50": 223930.914850313,
+      "p75": 275584.7830004243,
+      "p95": 418681.0283659309
+    },
+    "probabilityBelowContributions": 0.35,
+    "probabilityGoal": 0,
+    "annual": [
+      {
+        "year": 1,
+        "nominal": {
+          "p5": 100082.93406758476,
+          "p25": 113376.79564450955,
+          "p50": 127560.37318608983,
+          "p75": 144751.05356271623,
+          "p95": 171127.98952398612
+        },
+        "real": {
+          "p5": 97167.89715299492,
+          "p25": 110074.55887816461,
+          "p50": 123845.02251076682,
+          "p75": 140535.0034589478,
+          "p95": 166143.67914950108
+        }
+      },
+      {
+        "year": 2,
+        "nominal": {
+          "p5": 112372.14341885335,
+          "p25": 136650.84365123854,
+          "p50": 160878.52752922673,
+          "p75": 186430.46015269443,
+          "p95": 229518.00513076017
+        },
+        "real": {
+          "p5": 105921.52268720271,
+          "p25": 128806.52620533372,
+          "p50": 151643.44191651122,
+          "p75": 175728.5890778532,
+          "p95": 216342.7327087946
+        }
+      },
+      {
+        "year": 3,
+        "nominal": {
+          "p5": 128443.77406834453,
+          "p25": 164875.9306372456,
+          "p50": 192405.16969003045,
+          "p75": 225240.8723945386,
+          "p95": 294603.38610658905
+        },
+        "real": {
+          "p5": 117544.24853448714,
+          "p25": 150884.83275076537,
+          "p50": 176077.9862582607,
+          "p75": 206127.30571729134,
+          "p95": 269603.83161264344
+        }
+      },
+      {
+        "year": 4,
+        "nominal": {
+          "p5": 141755.52507678582,
+          "p25": 181999.57424437118,
+          "p50": 224532.53488019964,
+          "p75": 283202.67768256017,
+          "p95": 350807.19387457444
+        },
+        "real": {
+          "p5": 125947.94800121183,
+          "p25": 161704.26444229358,
+          "p50": 199494.249076735,
+          "p75": 251621.9110559962,
+          "p95": 311687.64807320735
+        }
+      },
+      {
+        "year": 5,
+        "nominal": {
+          "p5": 152500.52386484595,
+          "p25": 205064.74418559158,
+          "p50": 259597.30402024876,
+          "p75": 319478.29420398327,
+          "p95": 485366.06158588664
+        },
+        "real": {
+          "p5": 131548.29150900294,
+          "p25": 176890.6497019827,
+          "p50": 223930.914850313,
+          "p75": 275584.7830004243,
+          "p95": 418681.0283659309
+        }
+      }
+    ],
+    "histogram": [
+      {
+        "lower": 131135.75523412426,
+        "upper": 152853.7000446234,
+        "count": 6
+      },
+      {
+        "lower": 152853.7000446234,
+        "upper": 174571.64485512255,
+        "count": 4
+      },
+      {
+        "lower": 174571.64485512255,
+        "upper": 196289.58966562172,
+        "count": 7
+      },
+      {
+        "lower": 196289.58966562172,
+        "upper": 218007.53447612087,
+        "count": 18
+      },
+      {
+        "lower": 218007.53447612087,
+        "upper": 239725.47928662002,
+        "count": 9
+      },
+      {
+        "lower": 239725.47928662002,
+        "upper": 261443.4240971192,
+        "count": 7
+      },
+      {
+        "lower": 261443.4240971192,
+        "upper": 283161.36890761834,
+        "count": 8
+      },
+      {
+        "lower": 283161.36890761834,
+        "upper": 304879.3137181175,
+        "count": 10
+      },
+      {
+        "lower": 304879.3137181175,
+        "upper": 326597.2585286166,
+        "count": 10
+      },
+      {
+        "lower": 326597.2585286166,
+        "upper": 348315.2033391158,
+        "count": 4
+      },
+      {
+        "lower": 348315.2033391158,
+        "upper": 370033.1481496149,
+        "count": 2
+      },
+      {
+        "lower": 370033.1481496149,
+        "upper": 391751.0929601141,
+        "count": 2
+      },
+      {
+        "lower": 391751.0929601141,
+        "upper": 413469.0377706133,
+        "count": 4
+      },
+      {
+        "lower": 413469.0377706133,
+        "upper": 435186.9825811124,
+        "count": 3
+      },
+      {
+        "lower": 435186.9825811124,
+        "upper": 456904.92739161156,
+        "count": 0
+      },
+      {
+        "lower": 456904.92739161156,
+        "upper": 478622.8722021107,
+        "count": 0
+      },
+      {
+        "lower": 478622.8722021107,
+        "upper": 500340.81701260986,
+        "count": 2
+      },
+      {
+        "lower": 500340.81701260986,
+        "upper": 522058.761823109,
+        "count": 2
+      },
+      {
+        "lower": 522058.761823109,
+        "upper": 543776.7066336081,
+        "count": 1
+      },
+      {
+        "lower": 543776.7066336081,
+        "upper": 565494.6514441073,
+        "count": 1
+      }
+    ]
+  },
+  "resultSignature": "PzQ0ulmXnxEhk57l_5CyTrEXAn_ptLmdMfp1Y5h710A",
+  "resultToken": "H4sIAAAAAAAAE-1Wy24jNxD8lznbBPtN-pggCHLILacEe5Bs7a4AvWBLmywM_3uKY1GatSZ_EF9sz3QXq6u7i_M6fFs9v6z3u-FhoJRTHu6Gx8Xm8bRZHPH0tyc8f1wuOeuT3cfT4ulel_hrQUu_f_LFarl8zMvP4Ug7rrerl-Nie0AKZ_Z7onuSPygeyB7Ukhj92dD328PpOKL__jI8cPJa6vWn3A0v6-35-Jdf_lk9no4rsKCc74bD4nmxXR3BeHh4Hda79XG92Izvcnu93e-OXzffATr--321aIF2NzyvjqdnlIj64m74tm_om_Xxe3tCOHG9-_x-4BgiP1A4H_1lfz0pvzXIl9PmOPI47o-Lzc84-3m9PJ1zmN8p7fbb9a5lvg4HQ76x5ZyMpbgWtQpyB7bG2LJrClUqZpUMrA6W8QIxNZJkzRBVSzheBDKEqkZJXJWz1CKMyg4VL7SYuKfsALFS3HWkOyEhZNoyyXLNGQhnEhReak6uNTLVMiKOHFiq5FQJ0FlIzgw4zAo4F0GpyiqdABUvGCYu4obEivMPz_vlYjmK_tNqs__7g1wZ0_FD0K-j3BBwsdud2p9_vY79BMlbUXF84VRFswcYjRKN9ZBIeIpqropazc4FEag7zgwB1Vyg3rkkUg0DdRNzDnLuNVEQkhJGFb2rxYk_iFoRHangl3GtWvnCIefQBKVKFHJ1unAQDABUYqMc7oUvHNrxKWdRK63HnYI7qSQP9KFaplze3u66KnyrCg4ITkhBPzAS0keNMB2WU1F0p5Ew7YwgBSbKIA5XZo-LKhhW9F89oziveuk0czUqoGokqCFTfBy1bJUJkOwlML9BnQSXkh0vHJMvaBN3EgaRJGEPKoEf8UWWsGCww4RGoB7uHMhFOQUWAPSr-kQVuVWFC-inCMxKEUyFdELYxzAMUXaQUfPOpzL6kcirY1ewhtannw1vEsqSCpjinQ8oZEl4QNkbW_uoCSpRTdz2VHEoXdbPcsE-tVU2qGnS9w97iZoxfM5W2JuHvVPAjnPzBgsKrLNo5wC24FCEEAA5VSei6K0oCkqWmjeFQ9tyGd5CsORkge1WwQpcXAkKCScUgDYixrVTAvsMTw9YCVubiDMlQXE5ElUpoQDUG1eC0ymK1JIzMY66doYiQy_ssGLg5GKN1PasCVkbbbk0BhOEmavYPDhp9T4oQoQhhLuBB0giYSKK_W_V71b99ulu-Lp-Oe6_4KodbRduvXoeqRBsCUAMR2FlVHc6HMZXxigkRcNWeKa2W_60Ow4P3hTuALdRPb9NBKEYkIYlcfPpM4BOAWbCOgLaXGozB3gbut_s5IwQU4SZsDMCE-Yu2kTj_iCGlVwQqEwg5uI6hNRgSxqV0Up8AFxJ1CnCTFhHgMM384Ox4CKhOl_FTFTPHzc-SZsNsCuTTvxQw0zYGQHDCxNNmJzA8sMWrirkCcJMWAdgb0sAo0K7HXfWfwDchnUABTtL2BQR7HDbrplZmInq-RgwEdx7BdcklKqXfJ7m30b1_ErjJ0BleCjBGufzb6PO-Qob9oqvyIjAYovM8p-J6vn4Ti4Os4c2hPvv2kKZ5t9G9XzDRaWpcoCjQ5prB6YNmAvrCIGLhtvNBhuDi8Y8wG3UOd_apwtuRtg2bp9ci89KOBfWEYBpJbXZZKE838LboJ6Nq6p99mV3EXzTXDtI0_TbqJ7v1u4VfH3gxkFhMsn_9Pb2L_EBssMzDQAA.PzQ0ulmXnxEhk57l_5CyTrEXAn_ptLmdMfp1Y5h710A"
+}

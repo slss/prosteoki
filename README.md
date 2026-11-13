@@ -48,3 +48,7 @@ Zmienne repozytorium:
 `BUILD_TARGET`, `SITE_URL` i `INDEXABLE` ustawia workflow. Nie ma kluczy API w kodzie. Prywatność odpowiada faktycznie włączonej analityce. Brak reklam, afiliacji, danych osobistych w adresach i zdarzeniach analitycznych. Warunki GitHub Pages sprawdzono: obecna publikacja edukacyjna bez sprzedaży/SaaS; przed monetyzacją ponownie sprawdzić zgodność hostingu.
 
 Własna domena wymaga DNS, przypisania w Pages, wystawienia certyfikatu i HTTPS. CNAME pojawia się w buildzie tylko dla faktycznej domeny głównej. Weryfikuj publiczny workflow, HTML i działający adres, nie sam push. Szczegóły zakończonej publikacji zapisujemy w `../../research/2026-11-09-wydanie-1.0.0.md`.
+
+## Eksperyment Monte Carlo (2026-11-13)
+
+Nowy moduł `/monte-carlo/`: statyczny formularz + osobny Cloudflare Worker z publicznym API GET, manifestem, OpenAPI i podpisem HMAC. Nie stosuje zasad podatkowych OKI. Kod, uruchomienie lokalne, benchmarki, konfiguracja `MONTE_CARLO_API_URL` oraz scenariusz testu ChatGPT: [monte-carlo/README.md](monte-carlo/README.md). Worker wdrożono po zgodzie 2026-11-13; sekret i adres API w GitHub skonfigurowane. Bieżący status publikacji frontendu i TLS: `research/2026-11-13-wdrozenie-monte-carlo.md`. Dotychczasowy opis lokalnych obliczeń dotyczy kalkulatorów OKI; parametry Monte Carlo są wysyłane do Workera.
